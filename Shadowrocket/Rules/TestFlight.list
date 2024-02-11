@@ -1,0 +1,9 @@
+# NAME: TestFlight
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 1
+# TOTAL: 3
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
+DOMAIN-KEYWORD,testflight
