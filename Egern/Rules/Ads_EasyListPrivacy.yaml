@@ -4093,6 +4093,7 @@ domain_suffix_set:
 - collector.githubapp.com
 - collector.megaxh.com
 - collector.pi.spectrum.net
+- collector.taoxh.life
 - collector.xhamster.com
 - collector.xhamster.desi
 - collector.xhamster2.com
@@ -38933,6 +38934,7 @@ domain_suffix_set:
 - log.kinolights.com
 - log.zdnet.co.kr
 - nil.naver.com
+- nlog.naver.com
 - pds.auction.co.kr
 - rake.11st.co.kr
 - sp.naver.com
