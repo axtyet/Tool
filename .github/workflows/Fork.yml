@@ -1191,7 +1191,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add Surge/* Clash/* QuantumultX/* Loon/* Shadowrocket/* Stash/* Egern/* GeoIP/*
-          git commit -m "Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git commit -m "$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
           git push origin HEAD
         else
           echo "No changes to commit."
