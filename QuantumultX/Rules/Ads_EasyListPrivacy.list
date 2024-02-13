@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402121537
+## ! Version: 202402131430
 ## ! Title: EasyPrivacy
-## ! Last modified: 12 Feb 2024 15:37 UTC
+## ! Last modified: 13 Feb 2024 14:30 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3653,7 +3653,6 @@ HOST-SUFFIX,t.hypers.com.cn,reject,REJECT
 HOST-SUFFIX,t.rainide.com,reject,REJECT
 HOST-SUFFIX,tce.alicdn.com,reject,REJECT
 HOST-SUFFIX,tns.simba.taobao.com,reject,REJECT
-HOST-SUFFIX,toruk.tanx.com,reject,REJECT
 HOST-SUFFIX,tr.n2.hk,reject,REJECT
 HOST-SUFFIX,track.storm.mg,reject,REJECT
 HOST-SUFFIX,track.tomwx.net,reject,REJECT
