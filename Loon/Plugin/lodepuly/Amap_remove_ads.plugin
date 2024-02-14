@@ -4,7 +4,7 @@
 #!author = RuCu6 kokoryh
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Amap.png
-#!date = 2024-01-11 17:45:57
+#!date = 2024-02-11 20:25:57
 
 [Rule]
 DOMAIN, amap-aos-info-nogw.amap.com, REJECT
@@ -35,7 +35,7 @@ DOMAIN, free-aos-cdn-image.amap.com, REJECT
 http-response ^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch$ script-path = https://raw.githubusercontent.com/axtyet/Tool/main/Loon/Script/lodepuly/Alibaba/Alibaba_amdc_reject.js, tag = 移除阿里巴巴通用广告请求
 
 # 导航详情页 - 路线规划、地点详情页、搜索详情页、导航结束页
-http-response ^https:\/\/m5\.amap\.com\/ws\/perception\/drive\/routePlan\? script-path = https://raw.githubusercontent.com/axtyet/Tool/main/Loon/Script/lodepuly/Amap/Amap_remove_ads.js, requires-body = true, tag = 移除导航详情页扰人组件
+http-response ^https:\/\/m5\.amap\.com\/ws\/perception\/drive\/(routeInfo|routePlan)\? script-path = https://raw.githubusercontent.com/axtyet/Tool/main/Loon/Script/lodepuly/Amap/Amap_remove_ads.js, requires-body = true, tag = 移除导航详情页扰人组件
 http-response ^https:\/\/m5\.amap\.com\/ws\/shield\/search\/(common\/coupon\/info|poi\/detail)\? script-path = https://raw.githubusercontent.com/axtyet/Tool/main/Loon/Script/lodepuly/Amap/Amap_remove_ads.js, requires-body = true, tag = 移除导航详情页扰人组件
 http-response ^https:\/\/m5\.amap\.com\/ws\/shield\/search_business\/process\/marketingOperationStructured\? script-path = https://raw.githubusercontent.com/axtyet/Tool/main/Loon/Script/lodepuly/Amap/Amap_remove_ads.js, requires-body = true, tag = 移除导航详情页扰人组件
 http-response ^https:\/\/m5\.amap\.com\/ws\/shield\/search_poi\/(homepage|mps|search\/sp|sug|tips_operation_location)\? script-path = https://raw.githubusercontent.com/axtyet/Tool/main/Loon/Script/lodepuly/Amap/Amap_remove_ads.js, requires-body = true, tag = 移除导航详情页扰人组件
