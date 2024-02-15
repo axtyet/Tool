@@ -624,6 +624,7 @@ HOST-SUFFIX,adsame.com,REJECT
 HOST-SUFFIX,adsensor.org,REJECT
 HOST-SUFFIX,adserve.work,REJECT
 HOST-SUFFIX,adserver.yahoo.com,REJECT
+HOST-SUFFIX,adservice.google.com,REJECT
 HOST-SUFFIX,adsmediabox.com,REJECT
 HOST-SUFFIX,adspecs.yahoo.com,REJECT
 HOST-SUFFIX,adsrvr.org,REJECT
