@@ -458,6 +458,7 @@ domain_suffix_set:
 - mdfull.com
 - measurementapi.com
 - medialytics.com
+- mediav.com
 - meetrics.com
 - meetrics.net
 - miaozhen.com
@@ -761,7 +762,6 @@ domain_suffix_set:
 - zumobi.com
 - zwaar.org
 - zxrtb.com
-- mediav.com
 - 8le8le.com
 - jomwihn.cn
 - wuyicom.top
@@ -803,6 +803,7 @@ domain_suffix_set:
 - da.hunantv.com
 - log.hunantv.com
 - v2.hunantv.com
+- e.kuaishou.cn
 - e.kuaishou.com
 - ads.msn.com
 - ads1.msn.com

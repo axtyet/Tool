@@ -204,6 +204,7 @@ HOST-SUFFIX,localytics.com,REJECT
 HOST-SUFFIX,mdfull.com,REJECT
 HOST-SUFFIX,measurementapi.com,REJECT
 HOST-SUFFIX,medialytics.com,REJECT
+HOST-SUFFIX,mediav.com,REJECT
 HOST-SUFFIX,meetrics.com,REJECT
 HOST-SUFFIX,meetrics.net,REJECT
 HOST-SUFFIX,miaozhen.com,REJECT
@@ -507,7 +508,6 @@ HOST-SUFFIX,zucks.net,REJECT
 HOST-SUFFIX,zumobi.com,REJECT
 HOST-SUFFIX,zwaar.org,REJECT
 HOST-SUFFIX,zxrtb.com,REJECT
-HOST-SUFFIX,mediav.com,REJECT
 
 HOST-SUFFIX,8le8le.com,REJECT
 HOST-SUFFIX,jomwihn.cn,REJECT
@@ -730,6 +730,7 @@ HOST,mobad.ijinshan.com,REJECT
 HOST,ups.ksmobile.net,REJECT
 HOST,ws.ksmobile.net,REJECT
 # > Kuaishou
+HOST-SUFFIX,e.kuaishou.cn,REJECT
 HOST-SUFFIX,e.kuaishou.com,REJECT
 HOST,js-ad.a.yximgs.com,REJECT
 

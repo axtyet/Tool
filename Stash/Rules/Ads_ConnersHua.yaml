@@ -205,6 +205,7 @@ payload:
   - DOMAIN-SUFFIX,mdfull.com
   - DOMAIN-SUFFIX,measurementapi.com
   - DOMAIN-SUFFIX,medialytics.com
+  - DOMAIN-SUFFIX,mediav.com
   - DOMAIN-SUFFIX,meetrics.com
   - DOMAIN-SUFFIX,meetrics.net
   - DOMAIN-SUFFIX,miaozhen.com
@@ -508,7 +509,6 @@ payload:
   - DOMAIN-SUFFIX,zumobi.com
   - DOMAIN-SUFFIX,zwaar.org
   - DOMAIN-SUFFIX,zxrtb.com
-  - DOMAIN-SUFFIX,mediav.com
 
   - DOMAIN-SUFFIX,8le8le.com
   - DOMAIN-SUFFIX,jomwihn.cn
@@ -731,6 +731,7 @@ payload:
   - DOMAIN,ups.ksmobile.net
   - DOMAIN,ws.ksmobile.net
 # > Kuaishou
+  - DOMAIN-SUFFIX,e.kuaishou.cn
   - DOMAIN-SUFFIX,e.kuaishou.com
   - DOMAIN,js-ad.a.yximgs.com
 
