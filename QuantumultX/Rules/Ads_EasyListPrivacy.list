@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402141544
+## ! Version: 202402151519
 ## ! Title: EasyPrivacy
-## ! Last modified: 14 Feb 2024 15:44 UTC
+## ! Last modified: 15 Feb 2024 15:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -487,6 +487,7 @@ HOST-SUFFIX,aloofmetal.com,reject,REJECT
 HOST-SUFFIX,aloofvest.com,reject,REJECT
 HOST-SUFFIX,alpineactor.com,reject,REJECT
 HOST-SUFFIX,amazingairplane.com,reject,REJECT
+HOST-SUFFIX,ambientdusk.com,reject,REJECT
 HOST-SUFFIX,ambiguousafternoon.com,reject,REJECT
 HOST-SUFFIX,ambiguousalarm.com,reject,REJECT
 HOST-SUFFIX,ambiguousanger.com,reject,REJECT
@@ -2101,6 +2102,7 @@ HOST-SUFFIX,toweringrun.com,reject,REJECT
 HOST-SUFFIX,tradetooth.com,reject,REJECT
 HOST-SUFFIX,tranquilamulet.com,reject,REJECT
 HOST-SUFFIX,tranquilcanyon.com,reject,REJECT
+HOST-SUFFIX,tranquilplume.com,reject,REJECT
 HOST-SUFFIX,tranquilside.com,reject,REJECT
 HOST-SUFFIX,translateoatmeal.com,reject,REJECT
 HOST-SUFFIX,trappush.com,reject,REJECT
@@ -3776,6 +3778,7 @@ HOST-SUFFIX,log.popin.cc,reject,REJECT
 HOST-SUFFIX,log000.goo.ne.jp,reject,REJECT
 HOST-SUFFIX,omt.shinobi.jp,reject,REJECT
 HOST-SUFFIX,panda.kasika.io,reject,REJECT
+HOST-SUFFIX,ping.paidy.com,reject,REJECT
 HOST-SUFFIX,rcm.shinobi.jp,reject,REJECT
 HOST-SUFFIX,reports-tsi.tangerine.io,reject,REJECT
 HOST-SUFFIX,rlog.popin.cc,reject,REJECT

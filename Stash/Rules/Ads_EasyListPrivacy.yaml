@@ -1,8 +1,8 @@
 payload:
 ## [Adblock Plus 1.1]
-## ! Version: 202402141544
+## ! Version: 202402151519
 ## ! Title: EasyPrivacy
-## ! Last modified: 14 Feb 2024 15:44 UTC
+## ! Last modified: 15 Feb 2024 15:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -488,6 +488,7 @@ payload:
   - DOMAIN-SUFFIX,aloofvest.com
   - DOMAIN-SUFFIX,alpineactor.com
   - DOMAIN-SUFFIX,amazingairplane.com
+  - DOMAIN-SUFFIX,ambientdusk.com
   - DOMAIN-SUFFIX,ambiguousafternoon.com
   - DOMAIN-SUFFIX,ambiguousalarm.com
   - DOMAIN-SUFFIX,ambiguousanger.com
@@ -2102,6 +2103,7 @@ payload:
   - DOMAIN-SUFFIX,tradetooth.com
   - DOMAIN-SUFFIX,tranquilamulet.com
   - DOMAIN-SUFFIX,tranquilcanyon.com
+  - DOMAIN-SUFFIX,tranquilplume.com
   - DOMAIN-SUFFIX,tranquilside.com
   - DOMAIN-SUFFIX,translateoatmeal.com
   - DOMAIN-SUFFIX,trappush.com
@@ -3777,6 +3779,7 @@ payload:
   - DOMAIN-SUFFIX,log000.goo.ne.jp
   - DOMAIN-SUFFIX,omt.shinobi.jp
   - DOMAIN-SUFFIX,panda.kasika.io
+  - DOMAIN-SUFFIX,ping.paidy.com
   - DOMAIN-SUFFIX,rcm.shinobi.jp
   - DOMAIN-SUFFIX,reports-tsi.tangerine.io
   - DOMAIN-SUFFIX,rlog.popin.cc
