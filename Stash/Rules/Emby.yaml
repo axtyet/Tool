@@ -106,7 +106,7 @@ payload:
   - DOMAIN-SUFFIX,emby.nexitally.com
 
 # Nebula
-  - DOMAIN-SUFFIX,direct.nebula-emby.com
+  - DOMAIN-SUFFIX.nebula-emby.com
 
 ##### O #####
 

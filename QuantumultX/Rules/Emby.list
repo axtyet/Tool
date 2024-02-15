@@ -105,7 +105,7 @@ HOST-SUFFIX,ntrrr.am.sb,PROXY
 HOST-SUFFIX,emby.nexitally.com,PROXY
 
 # Nebula
-HOST-SUFFIX,direct.nebula-emby.com,PROXY
+HOST-SUFFIX.nebula-emby.com,PROXY
 
 ##### O #####
 
