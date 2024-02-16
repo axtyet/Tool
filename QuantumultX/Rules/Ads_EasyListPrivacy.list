@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402151519
+## ! Version: 202402161431
 ## ! Title: EasyPrivacy
-## ! Last modified: 15 Feb 2024 15:19 UTC
+## ! Last modified: 16 Feb 2024 14:31 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -45,6 +45,7 @@ HOST-SUFFIX,alpha1trk.com,reject,REJECT
 HOST-SUFFIX,altopd.com,reject,REJECT
 HOST-SUFFIX,analys.live,reject,REJECT
 HOST-SUFFIX,analysis.fi,reject,REJECT
+HOST-SUFFIX,analyt.ir,reject,REJECT
 HOST-SUFFIX,anonstat.pw,reject,REJECT
 HOST-SUFFIX,apeagle.io,reject,REJECT
 HOST-SUFFIX,apenterprise.io,reject,REJECT
@@ -901,6 +902,7 @@ HOST-SUFFIX,divergentoffer.com,reject,REJECT
 HOST-SUFFIX,dk4ywix.com,reject,REJECT
 HOST-SUFFIX,dockdigestion.com,reject,REJECT
 HOST-SUFFIX,docksalmon.com,reject,REJECT
+HOST-SUFFIX,dogcollarfavourbluff.com,reject,REJECT
 HOST-SUFFIX,dogsshoes.com,reject,REJECT
 HOST-SUFFIX,dollardelta.com,reject,REJECT
 HOST-SUFFIX,dolldetail.com,reject,REJECT
@@ -935,6 +937,7 @@ HOST-SUFFIX,earthycopy.com,reject,REJECT
 HOST-SUFFIX,eatablesquare.com,reject,REJECT
 HOST-SUFFIX,echoinghaven.com,reject,REJECT
 HOST-SUFFIX,economicpizzas.com,reject,REJECT
+HOST-SUFFIX,educatedeggnog.com,reject,REJECT
 HOST-SUFFIX,efficaciouscactus.com,reject,REJECT
 HOST-SUFFIX,ejyymghi.com,reject,REJECT
 HOST-SUFFIX,elasticchange.com,reject,REJECT
@@ -1262,6 +1265,7 @@ HOST-SUFFIX,jimny.pro,reject,REJECT
 HOST-SUFFIX,joblessdrum.com,reject,REJECT
 HOST-SUFFIX,joyoussurprise.com,reject,REJECT
 HOST-SUFFIX,jubilantcanyon.com,reject,REJECT
+HOST-SUFFIX,jubilantglimmer.com,reject,REJECT
 HOST-SUFFIX,justicejudo.com,reject,REJECT
 HOST-SUFFIX,k54nw.pw,reject,REJECT
 HOST-SUFFIX,kaputquill.com,reject,REJECT
@@ -4140,9 +4144,9 @@ HOST-SUFFIX,dc.banggood.com,reject,REJECT
 HOST-SUFFIX,dd.auspost.com.au,reject,REJECT
 HOST-SUFFIX,dd.nytimes.com,reject,REJECT
 HOST-SUFFIX,deliver.ptgncdn.com,reject,REJECT
-HOST-SUFFIX,df.infra.shopee.ph,reject,REJECT
 HOST-SUFFIX,discover-metrics.cloud.seek.com.au,reject,REJECT
 HOST-SUFFIX,dls-account.di.atlas.samsung.com,reject,REJECT
+HOST-SUFFIX,dot.nonolive.com,reject,REJECT
 HOST-SUFFIX,dp.shoprunner.com,reject,REJECT
 HOST-SUFFIX,dtag.breadfinancial.com,reject,REJECT
 HOST-SUFFIX,dumpster.cam4.com,reject,REJECT
@@ -4505,6 +4509,7 @@ HOST-SUFFIX,tracking.carsales.com.au,reject,REJECT
 HOST-SUFFIX,tracking.christianpost.com,reject,REJECT
 HOST-SUFFIX,tracking.digitalocean.com,reject,REJECT
 HOST-SUFFIX,tracking.engineering.cloud.seek.com.au,reject,REJECT
+HOST-SUFFIX,tracking.game8.co,reject,REJECT
 HOST-SUFFIX,tracking.hsn.com,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.co.uk,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.com,reject,REJECT
@@ -4516,7 +4521,6 @@ HOST-SUFFIX,trk.tirto.id,reject,REJECT
 HOST-SUFFIX,trx3.famousfix.com,reject,REJECT
 HOST-SUFFIX,ts.delfi.lt,reject,REJECT
 HOST-SUFFIX,ua.indianexpress.com,reject,REJECT
-HOST-SUFFIX,ubt.tracking.shopee.ph,reject,REJECT
 HOST-SUFFIX,ubuyanalytics.ubuy.com,reject,REJECT
 HOST-SUFFIX,um.contentstudio.io,reject,REJECT
 HOST-SUFFIX,umami.wakarimasen.moe,reject,REJECT
