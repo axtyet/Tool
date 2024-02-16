@@ -28,8 +28,6 @@ domain_set:
 - mapi.apptimize.com
 - md-i-s.apptimize.com
 - adttrackingprd.hwwt8.com
-- pagead2.googlesyndication.com
-- www.googleadservices.com
 - amap-aos-info-nogw.amap.com
 - awaken.amap.com
 - free-aos-cdn-image.amap.com
@@ -39,6 +37,9 @@ domain_set:
 - i.snssdk.com
 - is.snssdk.com
 - open.e.kuaishou.com
+- pagead2.googlesyndication-cn.com
+- pagead2.googlesyndication.com
+- www.googleadservices.com
 - hdns.ksyun.com
 - dns.jd.com
 - api.liquidlink.cn
@@ -131,8 +132,8 @@ domain_suffix_set:
 - iadsdk.apple.com
 - u3.ucweb.com
 - pos.baidu.com
-- adservice.google.com
 - mall.icbc.com.cn
+- adservice.google.com
 - miaozhen.com
 - ehaier.com
 - da.mgtv.com
@@ -143,9 +144,8 @@ domain_suffix_set:
 - biz.weibo.com
 domain_keyword_set:
 - safebrowsing.
-- adservice.google.com
-- ads.g.doubleclick
 - -ad-sign.byteimg.com
+- ads.g.doubleclick
 - asiad.byteactivity
 - pangolin-sdk-toutiao
 - pangolin.snssdk.com

@@ -326,6 +326,7 @@ HOST,optimus-ads.amap.com,REJECT
 HOST,optimus-ads.amap.com.w.alikunlun.com,REJECT
 HOST,ossgw.alicdn.com,REJECT
 HOST,otheve.beacon.qq.com,REJECT
+HOST,pagead2.googlesyndication-cn.com,REJECT
 HOST,pagead2.googlesyndication.com,REJECT
 HOST,pageviewp.icbc.com.cn,REJECT
 HOST,pangolin.snssdk.com,REJECT
@@ -424,7 +425,6 @@ HOST-KEYWORD,789htbet,REJECT
 HOST-KEYWORD,adform,REJECT
 HOST-KEYWORD,ads.g.doubleclick,REJECT
 HOST-KEYWORD,adservice,REJECT
-HOST-KEYWORD,adservice.google.com,REJECT
 HOST-KEYWORD,adv.ccb.com,REJECT
 HOST-KEYWORD,asewlfjqwlflkew,REJECT
 HOST-KEYWORD,asiad.byteactivity,REJECT

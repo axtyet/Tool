@@ -325,6 +325,7 @@ domain_set:
 - optimus-ads.amap.com.w.alikunlun.com
 - ossgw.alicdn.com
 - otheve.beacon.qq.com
+- pagead2.googlesyndication-cn.com
 - pagead2.googlesyndication.com
 - pageviewp.icbc.com.cn
 - pangolin.snssdk.com
@@ -1395,7 +1396,6 @@ domain_keyword_set:
 - adform
 - ads.g.doubleclick
 - adservice
-- adservice.google.com
 - adv.ccb.com
 - asewlfjqwlflkew
 - asiad.byteactivity
