@@ -15,7 +15,7 @@ Clash
 
 #### Clash Premium 内核
 
-* [CFW 配置](https://github.com/Repcz/Tool/raw/X/Clash/Premium/CFW.yaml)
+* [CFW 配置](https://github.com/axtyet/Tool/raw/main/Clash/Premium/CFW.yaml)
 * [CFW 预处理配置](https://github.com/Repcz/Tool/raw/X/Clash/Premium/CFW_parser.yaml)
 * [订阅转换配置 | 流媒体自动配置](https://github.com/Repcz/Tool/raw/X/Clash/Premium/Online_Full_Auto.ini)
 * [订阅转换配置 | 流媒体手动配置](https://github.com/Repcz/Tool/raw/X/Clash/Premium/Online_Full_NoAuto.ini)
