@@ -16,97 +16,97 @@ Clash
 #### Clash Premium 内核
 
 * [CFW 配置](https://github.com/axtyet/Tool/raw/main/Clash/Premium/CFW.yaml)
-* [CFW 预处理配置](https://github.com/Repcz/Tool/raw/X/Clash/Premium/CFW_parser.yaml)
-* [订阅转换配置 | 流媒体自动配置](https://github.com/Repcz/Tool/raw/X/Clash/Premium/Online_Full_Auto.ini)
-* [订阅转换配置 | 流媒体手动配置](https://github.com/Repcz/Tool/raw/X/Clash/Premium/Online_Full_NoAuto.ini)
+* [CFW 预处理配置](https://github.com/axtyet/Tool/raw/main/Clash/Premium/CFW_parser.yaml)
+* [订阅转换配置 | 流媒体自动配置](https://github.com/axtyet/Tool/raw/main/Clash/Premium/Online_Full_Auto.ini)
+* [订阅转换配置 | 流媒体手动配置](https://github.com/axtyet/Tool/raw/main/Clash/Premium/Online_Full_NoAuto.ini)
 
 #### Clash Meta 内核
 
-* [Clash Verge 配置 | 适配1个机场](https://github.com/Repcz/Tool/raw/X/Clash/Meta/ClashVerge.yaml)
-* [Clash Verge 配置 | 适配2个机场](https://github.com/Repcz/Tool/raw/X/Clash/Meta/ClashVerge_②.yaml)
-* [Clash Verge 配置 | 适配3个机场](https://github.com/Repcz/Tool/raw/X/Clash/Meta/ClashVerge_③.yaml)
-* [订阅转换配置 | 流媒体自动配置](https://github.com/Repcz/Tool/raw/X/Clash/Meta/Online_Full_Auto.ini)
-* [订阅转换配置 | 流媒体手动配置](https://github.com/Repcz/Tool/raw/X/Clash/Meta/Online_Full_NoAuto.ini)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Clash/README.MD)
+* [Clash Verge 配置 | 适配1个机场](https://github.com/axtyet/Tool/raw/main/Clash/Meta/ClashVerge.yaml)
+* [Clash Verge 配置 | 适配2个机场](https://github.com/axtyet/Tool/raw/main/Clash/Meta/ClashVerge_②.yaml)
+* [Clash Verge 配置 | 适配3个机场](https://github.com/axtyet/Tool/raw/main/Clash/Meta/ClashVerge_③.yaml)
+* [订阅转换配置 | 流媒体自动配置](https://github.com/axtyet/Tool/raw/main/Clash/Meta/Online_Full_Auto.ini)
+* [订阅转换配置 | 流媒体手动配置](https://github.com/axtyet/Tool/raw/main/Clash/Meta/Online_Full_NoAuto.ini)
+* [使用方法](https://github.com/axtyet/Tool/blob/main/Clash/README.MD)
 
 #### Clash 规则
 
-* [自用规则库](https://github.com/Repcz/Tool/tree/X/Clash/Rules)
+* [自用规则库](https://github.com/axtyet/Tool/tree/X/Clash/Rules)
 
 Egern
 ---
 <a href="https://apps.apple.com/us/app/egern/id1616105820">
-<img src="https://github.com/Repcz/Tool/blob/X/Egern/Photo/logo.PNG"  width="110" height="110"></a>
+<img src="https://github.com/axtyet/Tool/blob/main/Egern/Photo/logo.PNG"  width="110" height="110"></a>
 
 
-* [自用配置](https://github.com/Repcz/Tool/raw/X/Egern/Egern.yaml)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Egern/README.md)
-* [自用规则库](https://github.com/Repcz/Tool/blob/X/Egern/Rules)
-* [blackmatrix7规则库](https://github.com/Repcz/EgernRules)
+* [自用配置](https://github.com/axtyet/Tool/raw/main/Egern/Egern.yaml)
+* [使用方法](https://github.com/axtyet/Tool/blob/main/Egern/README.md)
+* [自用规则库](https://github.com/axtyet/Tool/blob/main/Egern/Rules)
+* [blackmatrix7规则库](https://github.com/axtyet/EgernRules)
 
 Loon
 ---
 <a href="https://apps.apple.com/app/id1373567447">
-<img src="https://github.com/Repcz/Tool/blob/X/Loon/Photo/logo.PNG"  width="110" height="110"></a>
+<img src="https://github.com/axtyet/Tool/blob/main/Loon/Photo/logo.PNG"  width="110" height="110"></a>
 
 
-* [自用配置](https://github.com/Repcz/Tool/raw/X/Loon/Loon.conf)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Loon/README.MD)
-* [自用规则库](https://github.com/Repcz/Tool/blob/X/Loon/Rules)
+* [自用配置](https://github.com/axtyet/Tool/raw/main/Loon/Loon.conf)
+* [使用方法](https://github.com/axtyet/Tool/blob/main/Loon/README.MD)
+* [自用规则库](https://github.com/axtyet/Tool/blob/main/Loon/Rules)
 
 QuantumultX
 ---
 <a href="https://apps.apple.com/app/id1443988620">
-<img src="https://github.com/Repcz/Tool/blob/X/QuantumultX/Photo/logo.PNG"  width="110" height="110"></a>
+<img src="https://github.com/axtyet/Tool/blob/main/QuantumultX/Photo/logo.PNG"  width="110" height="110"></a>
 
-* [自用配置](https://github.com/Repcz/Tool/raw/X/QuantumultX/QuantumultX.conf)
-* [自用配置 | 进阶](https://github.com/Repcz/Tool/raw/X/QuantumultX/QuantumultX_Pro.conf)
-* [自用配置 | tvOS](https://github.com/Repcz/Tool/raw/X/QuantumultX/QuantumultX_tvOS.conf)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/QuantumultX/README.MD)
-* [自用规则库](https://github.com/Repcz/Tool/blob/X/QuantumultX/Rules)
+* [自用配置](https://github.com/axtyet/Tool/raw/main/QuantumultX/QuantumultX.conf)
+* [自用配置 | 进阶](https://github.com/axtyet/Tool/raw/main/QuantumultX/QuantumultX_Pro.conf)
+* [自用配置 | tvOS](https://github.com/axtyet/Tool/raw/main/QuantumultX/QuantumultX_tvOS.conf)
+* [使用方法](https://github.com/axtyet/Tool/blob/main/QuantumultX/README.MD)
+* [自用规则库](https://github.com/axtyet/Tool/blob/main/QuantumultX/Rules)
 
 Shadowrocket
 ---
 <a href="https://apps.apple.com/app/id932747118">
-<img src="https://github.com/Repcz/Tool/blob/X/Shadowrocket/Photo/logo.PNG"  width="110" height="110"></a>
+<img src="https://github.com/axtyet/Tool/blob/main/Shadowrocket/Photo/logo.PNG"  width="110" height="110"></a>
 
 
-* [自用配置](https://github.com/Repcz/Tool/raw/X/Shadowrocket/Shadowrocket.conf)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Shadowrocket/README.MD)
-* [自用规则库](https://github.com/Repcz/Tool/blob/X/Shadowrocket/Rules)
+* [自用配置](https://github.com/axtyet/Tool/raw/main/Shadowrocket/Shadowrocket.conf)
+* [使用方法](https://github.com/axtyet/Tool/blob/main/Shadowrocket/README.MD)
+* [自用规则库](https://github.com/axtyet/Tool/blob/main/Shadowrocket/Rules)
 
 Stash
 ---
 <a href="https://apps.apple.com/app/id1596063349">
-<img src="https://github.com/Repcz/Tool/blob/X/Stash/Photo/logo.PNG"  width="110" height="110"></a>
+<img src="https://github.com/axtyet/Tool/blob/main/Stash/Photo/logo.PNG"  width="110" height="110"></a>
 
 
-* [自用配置](https://github.com/Repcz/Tool/raw/X/Stash/Stash.yaml)
-* [自用配置 | 轻量](https://github.com/Repcz/Tool/raw/X/Stash/Stash_lite.yaml)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Stash/README.MD)
-* [自用规则库](https://github.com/Repcz/Tool/blob/X/Stash/Rules)
+* [自用配置](https://github.com/axtyet/Tool/raw/main/Stash/Stash.yaml)
+* [自用配置 | 轻量](https://github.com/axtyet/Tool/raw/main/Stash/Stash_lite.yaml)
+* [使用方法](https://github.com/axtyet/Tool/blob/main/Stash/README.MD)
+* [自用规则库](https://github.com/axtyet/Tool/blob/main/Stash/Rules)
 
 Surfboard
 ---
 
 <a href="https://github.com/getsurfboard/surfboard/releases/latest">
-<img src="https://github.com/Repcz/Tool/blob/X/Surfboard/Photo/logo.png"  width="110" height="110"></a>
+<img src="https://github.com/axtyet/Tool/blob/main/Surfboard/Photo/logo.png"  width="110" height="110"></a>
 
-* [自用配置](https://github.com/Repcz/Tool/raw/X/Surfboard/Surfboard.confv)
-* [订阅转换配置 | 自动配置](https://github.com/Repcz/Tool/raw/X/Surfboard/Online_Full_Auto.ini)
-* [订阅转换配置 | 手动配置](https://github.com/Repcz/Tool/raw/X/Surfboard/Online_Full_NoAuto.ini)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Surfboard/README.MD)
+* [自用配置](https://github.com/axtyet/Tool/raw/main/Surfboard/Surfboard.confv)
+* [订阅转换配置 | 自动配置](https://github.com/axtyet/Tool/raw/main/Surfboard/Online_Full_Auto.ini)
+* [订阅转换配置 | 手动配置](https://github.com/axtyet/Tool/raw/main/Surfboard/Online_Full_NoAuto.ini)
+* [使用方法](https://github.com/axtyet/Tool/blob/main/Surfboard/README.MD)
 
 
 Surge
 ---
 <a href="https://apps.apple.com/app/id1442620678">
-<img src="https://github.com/Repcz/Tool/blob/X/Surge/Photo/logo.PNG"  width="110" height="110"></a>
+<img src="https://github.com/axtyet/Tool/blob/main/Surge/Photo/logo.PNG"  width="110" height="110"></a>
 
 
-* [自用配置](https://github.com/Repcz/Tool/raw/X/Surge/Surge.conf)
-* [使用方法](https://github.com/Repcz/Tool/blob/X/Surge/README.MD)
-* [自用规则库](https://github.com/Repcz/Tool/blob/X/Surge/Rules)
+* [自用配置](https://github.com/axtyet/Tool/raw/main/Surge/Surge.conf)
+* [使用方法](https://github.com/axtyet/Tool/blob/main/Surge/README.MD)
+* [自用规则库](https://github.com/axtyet/Tool/blob/main/Surge/Rules)
 
 
 </details>
