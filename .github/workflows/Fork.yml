@@ -1,4 +1,4 @@
-# 2024-02-10 21:50
+# 2024-02-17 15:00
 
 name: Fork Filter lists
 
@@ -112,10 +112,10 @@ jobs:
         cd Tool-repo/Surge/Rules
         for file in *.list; do
           if [ "$file" != "Lan.list" ] ; then
-            # 修改，& ; 以及大小写
-            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
-            # 删除“,REJECT”
-            sed -i 's/,REJECT//g' "$file"
+            # 删除不必要的部分
+            sed -i -e 's/,REJECT$//g' -e 's/, REJECT$//g' -e 's/, reject$//g' -e 's/, direct$//g' -e 's/, DIRECT$//g' "$file"
+            # 修改，& ;  修改大小 适配规则
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/-suffix/-SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 修改HOST为DOMAIN
             sed -i -e 's/HOST,/DOMAIN,/g' -e 's/HOST-/DOMAIN-/g' "$file"
             # 修改IP6-CIDR为IP-CIDR6
@@ -262,8 +262,10 @@ jobs:
         cd Tool-repo/Clash/Rules
         for file in *.list; do
           if [ "$file" != "ChinaIPv4.list" ] && [ "$file" != "ChinaIPv6.list" ] && [ "$file" != "Lan.list" ]; then
-            # 修改，& ; 以及大小写
-            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
+            # 删除不必要的部分
+            sed -i -e 's/,REJECT$//g' -e 's/, REJECT$//g' -e 's/, reject$//g' -e 's/, direct$//g' -e 's/, DIRECT$//g' "$file"
+            # 修改，& ;  修改大小 适配规则
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/-suffix/-SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除extended-matching
             sed -i 's/,extended-matching//g' "$file"
             # 注释不支持的规则
@@ -569,10 +571,10 @@ jobs:
         cd Tool-repo/Loon/Rules
         for file in *.list; do
           if [ "$file" != "Lan.list" ] ; then
-            # 修改，& ; 以及大小写
-            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除不必要的部分
-            sed -i 's/,REJECT//g' "$file"
+            sed -i -e 's/,REJECT$//g' -e 's/, REJECT$//g' -e 's/, reject$//g' -e 's/, direct$//g' -e 's/, DIRECT$//g' "$file"
+            # 修改，& ;  修改大小 适配规则
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/-suffix/-SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除extended-matching
             sed -i 's/,extended-matching//g' "$file"
             # 修改HOST为DOMAIN
@@ -732,10 +734,10 @@ jobs:
         cd Tool-repo/Shadowrocket/Rules
         for file in *.list; do
           if [ "$file" != "Lan.list" ] ; then
-            # 修改，& ; 以及大小写
-            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除不必要的部分
-            sed -i 's/,REJECT//g' "$file"
+            sed -i -e 's/,REJECT$//g' -e 's/, REJECT$//g' -e 's/, reject$//g' -e 's/, direct$//g' -e 's/, DIRECT$//g' "$file"
+            # 修改，& ;  修改大小 适配规则
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/-suffix/-SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除extended-matching
             sed -i 's/,extended-matching//g' "$file"
             # 修改HOST为DOMAIN
@@ -942,10 +944,10 @@ jobs:
         cd Tool-repo/Stash/Rules
         for file in *.yaml; do
           if [ "$file" != "Lan.yaml" ] ; then
-            # 修改，& ; 以及大小写
-            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除不必要的部分
-            sed -i 's/,REJECT//g' "$file"
+            sed -i -e 's/,REJECT$//g' -e 's/, REJECT$//g' -e 's/, reject$//g' -e 's/, direct$//g' -e 's/, DIRECT$//g' "$file"
+            # 修改，& ;  修改大小 适配规则
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/-suffix/-SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除extended-matching
             sed -i 's/,extended-matching//g' "$file"
             # 修改HOST为DOMAIN
@@ -979,10 +981,10 @@ jobs:
         cd Tool-repo/Stash/Rules
         for file in *.list; do
           if [ "$file" != "Lan.list" ] ; then
-            # 修改，& ; 以及大小写
-            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除不必要的部分
-            sed -i 's/,REJECT//g' "$file"
+            sed -i -e 's/,REJECT$//g' -e 's/, REJECT$//g' -e 's/, reject$//g' -e 's/, direct$//g' -e 's/, DIRECT$//g' "$file"
+            # 修改，& ;  修改大小 适配规则
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/-suffix/-SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除extended-matching
             sed -i 's/,extended-matching//g' "$file"
             # 修改HOST为DOMAIN
@@ -1125,10 +1127,10 @@ jobs:
         cd Tool-repo/Egern/Rules
         for file in *.yaml; do
           if [ -f "$file" ]; then
-            # 修改，& ; 以及大小写
-            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除不必要的部分
-            sed -i 's/,REJECT//g' "$file"
+            sed -i -e 's/,REJECT$//g' -e 's/, REJECT$//g' -e 's/, reject$//g' -e 's/, direct$//g' -e 's/, DIRECT$//g' "$file"
+            # 修改，& ;  修改大小 适配规则
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/-suffix/-SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
             # 删除extended-matching
             sed -i 's/,extended-matching//g' "$file"
             # 修改HOST为DOMAIN
