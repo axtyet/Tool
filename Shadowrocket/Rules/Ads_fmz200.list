@@ -448,7 +448,7 @@ DOMAIN-SUFFIX,ad.duoduo.link
 
 # >>>>>>>>>>>>>>> ✅ F ✅ <<<<<<<<<<<<<<
 # > 番茄小说
-DOMAIN-SUFFIX,byteimg.com,DIRECT
+DOMAIN-SUFFIX,byteimg.com
 DOMAIN,i.snssdk.com
 DOMAIN,i-lq.snssdk.com
 DOMAIN,dig.bdurl.net
@@ -468,12 +468,12 @@ DOMAIN,api.iegadp.qq.com
 DOMAIN-SUFFIX,byteorge.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,bytedance.com
-IP-CIDR,49.71.37.101/32,no-resolve
-IP-CIDR,117.71.105.23/32,no-resolve
-IP-CIDR,218.94.207.205/32,no-resolve
-IP-CIDR,117.92.229.188/32,no-resolve
-IP-CIDR,101.36.166.16/32,no-resolve
-IP-CIDR,180.96.2.114/32,no-resolve
+IP-CIDR,49.71.37.101/32,REJECT,no-resolve
+IP-CIDR,117.71.105.23/32,REJECT,no-resolve
+IP-CIDR,218.94.207.205/32,REJECT,no-resolve
+IP-CIDR,117.92.229.188/32,REJECT,no-resolve
+IP-CIDR,101.36.166.16/32,REJECT,no-resolve
+IP-CIDR,180.96.2.114/32,REJECT,no-resolve
 
 # > 凤凰新媒体
 DOMAIN-SUFFIX,deliver.ifeng.com
@@ -911,7 +911,7 @@ DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao.com
 # DOMAIN-KEYWORD,mssdk-bu.bytedance.com
 # DOMAIN-KEYWORD,365yg.com
 # DOMAIN-KEYWORD,ppx.byteimg.com
-# DOMAIN-KEYWORD,i.snssdk.com
+# DOMAIN-KEYWORD,i.snssdk.com,reject
 
 # > 影响端传媒正常运行，默认关闭
 # DOMAIN-SUFFIX,cloudfront.net
