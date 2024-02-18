@@ -91245,6 +91245,7 @@ domain_suffix_set:
 - stat.pandora.xiaomi.com
 - data.mistat.intl.xiaomi.com
 - admob.xiaomi.com
+- tz.sec.xiaomi.com
 - app.chat.xiaomi.net
 - sentry.d.xiaomi.net
 - ww.xiaopiaoyou.com
