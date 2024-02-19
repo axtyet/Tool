@@ -1,5 +1,5 @@
 payload:
-# 2024-02-19 10:10
+# 2024-02-19 17:25
 
 # ======= A ======= #
 # 阿里巴巴
@@ -39,7 +39,8 @@ payload:
   - DOMAIN,afd.baidu.com
   - DOMAIN,afdconf.baidu.com
   - DOMAIN,lc.map.baidu.com
-# 百度贴吧
+# 百度
+  - IP-CIDR,180.76.76.112/32,no-resolve
   - IP-CIDR,180.76.76.200/32,no-resolve
 
 # ======= C ======= #
