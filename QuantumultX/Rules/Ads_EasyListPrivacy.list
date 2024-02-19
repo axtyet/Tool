@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402181156
+## ! Version: 202402191544
 ## ! Title: EasyPrivacy
-## ! Last modified: 18 Feb 2024 11:56 UTC
+## ! Last modified: 19 Feb 2024 15:44 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3711,6 +3711,7 @@ HOST-SUFFIX,pixel.barion.com,reject,REJECT
 HOST-SUFFIX,rum.marquardmedia.hu,reject,REJECT
 HOST-SUFFIX,videostat-new.index.hu,reject,REJECT
 HOST-SUFFIX,videostat.index.hu,reject,REJECT
+HOST-SUFFIX,tracker.oval.id,reject,REJECT
 HOST-SUFFIX,analytics.competitoor.com,reject,REJECT
 HOST-SUFFIX,analytics.eikondigital.it,reject,REJECT
 HOST-SUFFIX,analytics.gtechgroup.it,reject,REJECT
@@ -4030,6 +4031,7 @@ HOST-SUFFIX,analytics.brave.com,reject,REJECT
 HOST-SUFFIX,analytics.chase.com,reject,REJECT
 HOST-SUFFIX,analytics.cookiefirst.dev,reject,REJECT
 HOST-SUFFIX,analytics.designspiration.com,reject,REJECT
+HOST-SUFFIX,analytics.eip.telegraph.co.uk,reject,REJECT
 HOST-SUFFIX,analytics.faceitanalytics.com,reject,REJECT
 HOST-SUFFIX,analytics.footballdb.com,reject,REJECT
 HOST-SUFFIX,analytics.freemake.com,reject,REJECT
@@ -38981,6 +38983,7 @@ HOST-SUFFIX,stats.tunt.lv,reject,REJECT
 HOST-SUFFIX,click.vgnett.no,reject,REJECT
 HOST-SUFFIX,data.nrk.no,reject,REJECT
 HOST-SUFFIX,stats.proff.no,reject,REJECT
+HOST-SUFFIX,stm.komplett.no,reject,REJECT
 HOST-SUFFIX,analytics.gazeta.pl,reject,REJECT
 HOST-SUFFIX,collect.state.centrum24.pl,reject,REJECT
 HOST-SUFFIX,entryhit.wp.pl,reject,REJECT
