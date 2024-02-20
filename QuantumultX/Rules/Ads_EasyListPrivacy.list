@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402191544
+## ! Version: 202402201547
 ## ! Title: EasyPrivacy
-## ! Last modified: 19 Feb 2024 15:44 UTC
+## ! Last modified: 20 Feb 2024 15:47 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -307,6 +307,7 @@ HOST-SUFFIX,stack-sonar.com,reject,REJECT
 HOST-SUFFIX,stat.ovh,reject,REJECT
 HOST-SUFFIX,statisticplatform.com,reject,REJECT
 HOST-SUFFIX,statisticsplatform.com,reject,REJECT
+HOST-SUFFIX,stats.rip,reject,REJECT
 HOST-SUFFIX,summerhamster.com,reject,REJECT
 HOST-SUFFIX,superpointlesshamsters.com,reject,REJECT
 HOST-SUFFIX,t13.io,reject,REJECT
@@ -3711,7 +3712,6 @@ HOST-SUFFIX,pixel.barion.com,reject,REJECT
 HOST-SUFFIX,rum.marquardmedia.hu,reject,REJECT
 HOST-SUFFIX,videostat-new.index.hu,reject,REJECT
 HOST-SUFFIX,videostat.index.hu,reject,REJECT
-HOST-SUFFIX,tracker.oval.id,reject,REJECT
 HOST-SUFFIX,analytics.competitoor.com,reject,REJECT
 HOST-SUFFIX,analytics.eikondigital.it,reject,REJECT
 HOST-SUFFIX,analytics.gtechgroup.it,reject,REJECT
@@ -4520,6 +4520,7 @@ HOST-SUFFIX,tracking.unrealengine.com,reject,REJECT
 HOST-SUFFIX,trackr.vivenu.com,reject,REJECT
 HOST-SUFFIX,treatment.grammarly.com,reject,REJECT
 HOST-SUFFIX,tredir.go.com,reject,REJECT
+HOST-SUFFIX,trk.decido.io,reject,REJECT
 HOST-SUFFIX,trk.tirto.id,reject,REJECT
 HOST-SUFFIX,trx3.famousfix.com,reject,REJECT
 HOST-SUFFIX,ts.delfi.lt,reject,REJECT
@@ -38942,6 +38943,7 @@ HOST-SUFFIX,sy.amebame.com,reject,REJECT
 HOST-SUFFIX,sy.ameblo.jp,reject,REJECT
 HOST-SUFFIX,t.syosetu.org,reject,REJECT
 HOST-SUFFIX,track.buyma.com,reject,REJECT
+HOST-SUFFIX,tracking.ai.rakuten.co.jp,reject,REJECT
 HOST-SUFFIX,tracking.game8.jp,reject,REJECT
 HOST-SUFFIX,tracking.gnavi.co.jp,reject,REJECT
 HOST-SUFFIX,view.fujitv.co.jp,reject,REJECT

@@ -292,6 +292,7 @@ domain_suffix_set:
 - stat.ovh
 - statisticplatform.com
 - statisticsplatform.com
+- stats.rip
 - summerhamster.com
 - superpointlesshamsters.com
 - t13.io
@@ -3696,7 +3697,6 @@ domain_suffix_set:
 - rum.marquardmedia.hu
 - videostat-new.index.hu
 - videostat.index.hu
-- tracker.oval.id
 - analytics.competitoor.com
 - analytics.eikondigital.it
 - analytics.gtechgroup.it
@@ -4505,6 +4505,7 @@ domain_suffix_set:
 - trackr.vivenu.com
 - treatment.grammarly.com
 - tredir.go.com
+- trk.decido.io
 - trk.tirto.id
 - trx3.famousfix.com
 - ts.delfi.lt
@@ -38927,6 +38928,7 @@ domain_suffix_set:
 - sy.ameblo.jp
 - t.syosetu.org
 - track.buyma.com
+- tracking.ai.rakuten.co.jp
 - tracking.game8.jp
 - tracking.gnavi.co.jp
 - view.fujitv.co.jp
