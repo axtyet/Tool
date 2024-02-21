@@ -1,16 +1,17 @@
 domain_set:
-- adstats.tencentmusic.com
-- ad.tencentmusic.com
+- adstats.tencentmusic.com-DROP
+- ad.tencentmusic.com-DROP
 - adcdn.tencentmusic.com
+- adcdn6.tencentmusic.com
 - adexpo.tencentmusic.com
 - adclick.tencentmusic.com
-- otheve.beacon.qq.com
-- monitor.music.qq.com
+- otheve.beacon.qq.com-DROP
+- mazu.m.qq.com-DROP
+- monitor.music.qq.com-DROP
 - stat.y.qq.com
-- tmead.y.qq.com
+- tmead.y.qq.com-NO-DROP
 - oth.str.mdt.qq.com
 - h.trace.qq.com
-- tmead.y.qq.com
 - sdk.e.qq.com
 - p.l.qq.com
 - us.l.qq.com

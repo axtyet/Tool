@@ -1,10 +1,4 @@
-# 规则: Trust
-# 数目: 14
-
-d13,PROXY
-
 # 2023-12-27 18:55
-
 HOST,api.avax.network,PROXY
 HOST-SUFFIX,kodif.io,PROXY
 HOST-SUFFIX,trustwallet.com,PROXY

@@ -1,7 +1,5 @@
 # 规则: Prevent_DNS_Leaks
-d19,PROXY
-
-# 数目: 20
+# 数目: 19
 
 HOST,ip-scan.adspower.net,PROXY
 HOST-SUFFIX,immersivetranslate.com,PROXY

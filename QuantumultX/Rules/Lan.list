@@ -1,8 +1,3 @@
-# 规则: Lan
-# 数目: 8
-
-
-
 HOST-SUFFIX,local,PROXY
 IP-CIDR,192.168.0.0/16,PROXY
 IP-CIDR,10.0.0.0/8,PROXY

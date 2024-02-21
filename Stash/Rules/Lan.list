@@ -1,8 +1,3 @@
-# 规则: Lan
-# 数目: 8
-
-
-
 DOMAIN-SUFFIX,local
 IP-CIDR,192.168.0.0/16
 IP-CIDR,10.0.0.0/8

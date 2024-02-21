@@ -1,10 +1,4 @@
-# 规则: Talkatone
-# 数目: 8
-
-d7
-
 # 建议搭配 @ConnersHua 的去广告&去追踪规则使用
-
 DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,mobilefuse.com
