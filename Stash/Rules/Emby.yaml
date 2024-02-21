@@ -1,4 +1,9 @@
 payload:
+# 规则: Emby
+  - d141
+
+# 数目: 142
+
 # 基于 https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list 修改
 #
 # 2024-02-15 21:49

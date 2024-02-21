@@ -1,4 +1,9 @@
 payload:
+# 规则: Telegram
+# 数目: 61
+
+  - d60
+
 # 2024-01-21 20:08
 
   - DOMAIN-SUFFIX,comments.app

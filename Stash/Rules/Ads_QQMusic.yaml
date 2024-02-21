@@ -1,7 +1,11 @@
 payload:
+# 规则: Ads_QQMusic
+# 数目: 20
+
+  - d19
+
 来源：https://gitlab.com/lodepuly/vpn_tool/-/blob/master/Tool/Loon/Plugin/QQMusic_remove_ads.plugin
   - 2023-12-20 16:47:45
-
   - DOMAIN,adstats.tencentmusic.com
   - DOMAIN,ad.tencentmusic.com
   - DOMAIN,adcdn.tencentmusic.com

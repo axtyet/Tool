@@ -1,6 +1,7 @@
 payload:
-# 数目:1497
-# 规则:Reject
+# 规则: Reject
+# 数目: 1497
+
 #AND,((USER-AGENT,Frodo*),(DOMAIN,119.29.29.29))
   - DOMAIN,118.89.204.198
   - DOMAIN,a.wkanx.com
