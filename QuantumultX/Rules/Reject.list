@@ -1,6 +1,3 @@
-# 规则: Reject
-# 数目: 1497
-
 #AND,((USER-AGENT,Frodo*),(HOST,119.29.29.29))
 HOST,118.89.204.198,REJECT
 HOST,a.wkanx.com,REJECT
