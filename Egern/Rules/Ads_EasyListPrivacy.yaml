@@ -2781,7 +2781,6 @@ domain_suffix_set:
 - log.nordot.jp
 - log.olark.com
 - log.outbrain.com
-- log.outbrainimg.com
 - log.pinterest.com
 - log.reformal.ru
 - log.seekda.com
@@ -2866,6 +2865,7 @@ domain_suffix_set:
 - pages-stats.rbl.ms
 - pagesense-collect.zoho.com
 - pagesocket.glam.com
+- pbjs-stream.bydata.com
 - pegasus.unifygroup.com
 - perf-events.cloud.unity3d.com
 - perf.hsforms.com
@@ -3307,6 +3307,7 @@ domain_suffix_set:
 - vdrn.redplum.com
 - vercel-vitals.axiom.co
 - video-ad-stats.googlesyndication.com
+- video-analytics-api.cloudinary.com
 - videoevents.outbrain.com
 - vortex.data.microsoft.com
 - vst.sibnet.ru
