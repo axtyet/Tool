@@ -1,8 +1,8 @@
 payload:
 ## [Adblock Plus 1.1]
-## ! Version: 202402241159
+## ! Version: 202402251422
 ## ! Title: EasyPrivacy
-## ! Last modified: 24 Feb 2024 11:59 UTC
+## ! Last modified: 25 Feb 2024 14:22 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4024,6 +4024,7 @@ payload:
   - DOMAIN-SUFFIX,alb.reddit.com
   - DOMAIN-SUFFIX,als-svc.nytimes.com
   - DOMAIN-SUFFIX,amethyst.zappos.com
+  - DOMAIN-SUFFIX,ampltd.medal.tv
   - DOMAIN-SUFFIX,ampltd.top.gg
   - DOMAIN-SUFFIX,ampltd2.medal.tv
   - DOMAIN-SUFFIX,analytics-batch.blitz.gg
