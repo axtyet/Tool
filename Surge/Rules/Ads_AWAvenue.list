@@ -1,5 +1,5 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
-# 规则版本: 1.3.4
+# 规则版本: 1.4.0
 # 更新时间: 2024-02-26
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -269,6 +269,7 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jpush.html5.qq.com
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,jswebcollects.kugou.com
+DOMAIN-SUFFIX,kl.67it.com
 DOMAIN-SUFFIX,ks.pull.yximgs.com
 DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
 DOMAIN-SUFFIX,lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -278,6 +279,7 @@ DOMAIN-SUFFIX,log-api-mn.huxiu.com
 DOMAIN-SUFFIX,log-api.huxiu.com
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,log-report.com
 DOMAIN-SUFFIX,log-sdk.gifshow.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
@@ -307,6 +309,7 @@ DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX,m.kubiqq.com
 DOMAIN-SUFFIX,m1.ad.10010.com
 DOMAIN-SUFFIX,masdkv6.3g.qq.com
+DOMAIN-SUFFIX,mazu.m.qq.com
 DOMAIN-SUFFIX,mdp-usertrace-cn.heytapmobi.com
 DOMAIN-SUFFIX,metok.sys.miui.com
 DOMAIN-SUFFIX,metrics.apple.com
@@ -316,6 +319,7 @@ DOMAIN-SUFFIX,metrics.mzstatic.com
 DOMAIN-SUFFIX,metrics2.data.hicloud.com
 DOMAIN-SUFFIX,mi.gdt.qq.com
 DOMAIN-SUFFIX,miav-cse.avlyun.com
+DOMAIN-SUFFIX,mine.baidu.com
 DOMAIN-SUFFIX,miui-fxcse.avlyun.com
 DOMAIN-SUFFIX,mnqlog.ldmnq.com
 DOMAIN-SUFFIX,mobads-logs.baidu.com
@@ -362,6 +366,7 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pgdt.ugdtimg.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pig.pupuapi.com
+DOMAIN-SUFFIX,pixon.ads-pixiv.net
 DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
 DOMAIN-SUFFIX,proxy.advp.apple.com
 DOMAIN-SUFFIX,public.gdtimg.com
@@ -384,6 +389,7 @@ DOMAIN-SUFFIX,s2.qq.com
 DOMAIN-SUFFIX,s3.qq.com
 DOMAIN-SUFFIX,samsung-com.112.2o7.net
 DOMAIN-SUFFIX,samsungads.com
+DOMAIN-SUFFIX,sanme2.taisantech.com
 DOMAIN-SUFFIX,saveu5-normal-lq.zijieapi.com
 DOMAIN-SUFFIX,scdown.qq.com
 DOMAIN-SUFFIX,sdk-cache.video.ptqy.gitv.tv
@@ -405,6 +411,7 @@ DOMAIN-SUFFIX,sensors-log.dongqiudi.com
 DOMAIN-SUFFIX,service.changhong.upgrade2.huan.tv
 DOMAIN-SUFFIX,service.vmos.cn/vmospro/api/ad
 DOMAIN-SUFFIX,sf16-static.i18n-pglstatp.com
+DOMAIN-SUFFIX,shouji.sogou.com
 DOMAIN-SUFFIX,skdisplay.jd.com
 DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
 DOMAIN-SUFFIX,smartad.10010.com
@@ -413,6 +420,7 @@ DOMAIN-SUFFIX,sms.ads.oppomobile.com
 DOMAIN-SUFFIX,sngmta.qq.com
 DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,static.ads-twitter.com
+DOMAIN-SUFFIX,statics.woozooo.com
 DOMAIN-SUFFIX,staticsns.cdn.bcebos.com
 DOMAIN-SUFFIX,stats.qiumibao.com
 DOMAIN-SUFFIX,statsigapi.net
@@ -435,7 +443,10 @@ DOMAIN-SUFFIX,test.e.ad.xiaomi.com
 DOMAIN-SUFFIX,tj.b.qq.com
 DOMAIN-SUFFIX,tj.video.qq.com
 DOMAIN-SUFFIX,tmead.y.qq.com
+DOMAIN-SUFFIX,tmfmazu-wangka.m.qq.com
+DOMAIN-SUFFIX,tmfmazu.m.qq.com
 DOMAIN-SUFFIX,tmfsdk.m.qq.com
+DOMAIN-SUFFIX,tmfsdktcpv4.m.qq.com
 DOMAIN-SUFFIX,tnc3-aliec1.toutiaoapi.com
 DOMAIN-SUFFIX,tnc3-aliec2.bytedance.com
 DOMAIN-SUFFIX,tnc3-aliec2.toutiaoapi.com
@@ -510,7 +521,6 @@ DOMAIN-SUFFIX,webstat.qiumibao.com
 DOMAIN-SUFFIX,win.gdt.qq.com
 DOMAIN-SUFFIX,wn.x.jd.com
 DOMAIN-SUFFIX,ws-keyboard.shouji.sogou.com
-DOMAIN-SUFFIX,shouji.sogou.com
 DOMAIN-SUFFIX,ws.sj.qq.com
 DOMAIN-SUFFIX,www42.zskwai.com
 DOMAIN-SUFFIX,wxa.wxs.qq.com
@@ -524,7 +534,3 @@ DOMAIN-SUFFIX,xlviiirdr.com
 DOMAIN-SUFFIX,xlviirdr.com
 DOMAIN-SUFFIX,youxi.kugou.com
 DOMAIN-SUFFIX,zeus.ad.xiaomi.com
-DOMAIN-SUFFIX,pixon.ads-pixiv.net
-DOMAIN-SUFFIX,statics.woozooo.com
-DOMAIN-SUFFIX,sanme2.taisantech.com
-DOMAIN-SUFFIX,kl.67it.com
