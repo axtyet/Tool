@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402251422
+## ! Version: 202402261503
 ## ! Title: EasyPrivacy
-## ! Last modified: 25 Feb 2024 14:22 UTC
+## ! Last modified: 26 Feb 2024 15:03 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -330,6 +330,7 @@ HOST-SUFFIX,tracking24.net,reject,REJECT
 HOST-SUFFIX,transmapp.com,reject,REJECT
 HOST-SUFFIX,triplestat.online,reject,REJECT
 HOST-SUFFIX,trk-maiorum.com,reject,REJECT
+HOST-SUFFIX,trkapi.impact.com,reject,REJECT
 HOST-SUFFIX,trkbc.com,reject,REJECT
 HOST-SUFFIX,trkn.us,reject,REJECT
 HOST-SUFFIX,tru.am,reject,REJECT
@@ -1792,6 +1793,7 @@ HOST-SUFFIX,sheltercellar.com,reject,REJECT
 HOST-SUFFIX,shesubscriptions.com,reject,REJECT
 HOST-SUFFIX,shinesavage.com,reject,REJECT
 HOST-SUFFIX,shinestuart.com,reject,REJECT
+HOST-SUFFIX,shinypond.com,reject,REJECT
 HOST-SUFFIX,shirtsidewalk.com,reject,REJECT
 HOST-SUFFIX,shiveringspot.com,reject,REJECT
 HOST-SUFFIX,shiverscissors.com,reject,REJECT
@@ -3354,7 +3356,6 @@ HOST-SUFFIX,x.weather.com,reject,REJECT
 HOST-SUFFIX,xp2023-pix.s3.amazonaws.com,reject,REJECT
 HOST-SUFFIX,adsdk.yandex.ru,reject,REJECT
 HOST-SUFFIX,analytics-api.samsunghealthcn.com,reject,REJECT
-HOST-SUFFIX,analytics.b2.ai,reject,REJECT
 HOST-SUFFIX,analytics.mobile.yandex.net,reject,REJECT
 HOST-SUFFIX,analytics.samsungknox.com,reject,REJECT
 HOST-SUFFIX,click.oneplus.cn,reject,REJECT
@@ -4199,6 +4200,7 @@ HOST-SUFFIX,events2.www.edenfantasys.com,reject,REJECT
 HOST-SUFFIX,evs.icy-lake.kickstarter.com,reject,REJECT
 HOST-SUFFIX,exr-mms.expertreviews.co.uk,reject,REJECT
 HOST-SUFFIX,f362.nola.com,reject,REJECT
+HOST-SUFFIX,faro-collector-prod-*.grafana.net,reject,REJECT
 HOST-SUFFIX,fathom.app.silverbeak.com,reject,REJECT
 HOST-SUFFIX,fathom.tdvm.net,reject,REJECT
 HOST-SUFFIX,fbo-statistics-collector-tc.is.flippingbook.com,reject,REJECT
