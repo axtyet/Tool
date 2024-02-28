@@ -1,8 +1,8 @@
 payload:
 ## [Adblock Plus 1.1]
-## ! Version: 202402271037
+## ! Version: 202402281543
 ## ! Title: EasyPrivacy
-## ! Last modified: 27 Feb 2024 10:37 UTC
+## ! Last modified: 28 Feb 2024 15:43 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3537,6 +3537,7 @@ payload:
   - DOMAIN-SUFFIX,nexxtv-events.servicebus.windows.net
   - DOMAIN-SUFFIX,omniture.eaeurope.eu
   - DOMAIN-SUFFIX,orbidder.otto.de
+  - DOMAIN-SUFFIX,owen.prolitteris.ch
   - DOMAIN-SUFFIX,pixel.poptok.com
   - DOMAIN-SUFFIX,plausible.ams.to
   - DOMAIN-SUFFIX,px.staticfiles.at
@@ -3853,6 +3854,7 @@ payload:
   - DOMAIN-SUFFIX,log.medietall.no
   - DOMAIN-SUFFIX,analytics.aasaam.com
   - DOMAIN-SUFFIX,analytics.ceneo.pl
+  - DOMAIN-SUFFIX,ar1.aza.io
   - DOMAIN-SUFFIX,cmp.dreamlab.pl
   - DOMAIN-SUFFIX,dsg.interia.pl
   - DOMAIN-SUFFIX,hit.interia.pl
