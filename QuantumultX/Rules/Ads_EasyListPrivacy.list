@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402281543
+## ! Version: 202402291545
 ## ! Title: EasyPrivacy
-## ! Last modified: 28 Feb 2024 15:43 UTC
+## ! Last modified: 29 Feb 2024 15:45 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -479,6 +479,7 @@ HOST-SUFFIX,aheadmachine.com,reject,REJECT
 HOST-SUFFIX,ajaralarm.com,reject,REJECT
 HOST-SUFFIX,ak0gsh40.com,reject,REJECT
 HOST-SUFFIX,alertafterthought.com,reject,REJECT
+HOST-SUFFIX,alertarithmetic.com,reject,REJECT
 HOST-SUFFIX,alertfaucet.com,reject,REJECT
 HOST-SUFFIX,aliasanvil.com,reject,REJECT
 HOST-SUFFIX,alikeaddition.com,reject,REJECT
@@ -501,6 +502,7 @@ HOST-SUFFIX,ambiguousincome.com,reject,REJECT
 HOST-SUFFIX,ambiguousquilt.com,reject,REJECT
 HOST-SUFFIX,ambitiousagreement.com,reject,REJECT
 HOST-SUFFIX,ambitiousanimal.com,reject,REJECT
+HOST-SUFFIX,ambrosialsummit.com,reject,REJECT
 HOST-SUFFIX,amethystzenith.com,reject,REJECT
 HOST-SUFFIX,amuckafternoon.com,reject,REJECT
 HOST-SUFFIX,amusedbucket.com,reject,REJECT
@@ -961,6 +963,7 @@ HOST-SUFFIX,enchantedjudge.com,reject,REJECT
 HOST-SUFFIX,enchantedskyline.com,reject,REJECT
 HOST-SUFFIX,enchantedtop.com,reject,REJECT
 HOST-SUFFIX,enchantingbear.com,reject,REJECT
+HOST-SUFFIX,enchantingenchantment.com,reject,REJECT
 HOST-SUFFIX,enchantingvalley.com,reject,REJECT
 HOST-SUFFIX,encourageidea.com,reject,REJECT
 HOST-SUFFIX,encourageshock.com,reject,REJECT
@@ -987,6 +990,7 @@ HOST-SUFFIX,enviousshape.com,reject,REJECT
 HOST-SUFFIX,enviousthread.com,reject,REJECT
 HOST-SUFFIX,equablekettle.com,reject,REJECT
 HOST-SUFFIX,erraticreaction.com,reject,REJECT
+HOST-SUFFIX,etherealquasar.com,reject,REJECT
 HOST-SUFFIX,etherealripple.com,reject,REJECT
 HOST-SUFFIX,evaluateend.com,reject,REJECT
 HOST-SUFFIX,evanescentedge.com,reject,REJECT
@@ -1114,6 +1118,7 @@ HOST-SUFFIX,giftedglue.com,reject,REJECT
 HOST-SUFFIX,giftedthumb.com,reject,REJECT
 HOST-SUFFIX,giraffepiano.com,reject,REJECT
 HOST-SUFFIX,givevacation.com,reject,REJECT
+HOST-SUFFIX,gladglen.com,reject,REJECT
 HOST-SUFFIX,gleamingcow.com,reject,REJECT
 HOST-SUFFIX,gleamingtrade.com,reject,REJECT
 HOST-SUFFIX,glisteningguide.com,reject,REJECT
@@ -1273,6 +1278,7 @@ HOST-SUFFIX,jubilantglimmer.com,reject,REJECT
 HOST-SUFFIX,justicejudo.com,reject,REJECT
 HOST-SUFFIX,k54nw.pw,reject,REJECT
 HOST-SUFFIX,kaputquill.com,reject,REJECT
+HOST-SUFFIX,kindhush.com,reject,REJECT
 HOST-SUFFIX,kitesquirrel.com,reject,REJECT
 HOST-SUFFIX,kittyaction.com,reject,REJECT
 HOST-SUFFIX,knitstamp.com,reject,REJECT
@@ -1334,6 +1340,7 @@ HOST-SUFFIX,magnetairport.com,reject,REJECT
 HOST-SUFFIX,magnificentmeasure.com,reject,REJECT
 HOST-SUFFIX,magnificentmist.com,reject,REJECT
 HOST-SUFFIX,mailboxmeeting.com,reject,REJECT
+HOST-SUFFIX,majesticmountainrange.com,reject,REJECT
 HOST-SUFFIX,makeshiftmine.com,reject,REJECT
 HOST-SUFFIX,maliciousmusic.com,reject,REJECT
 HOST-SUFFIX,maniacalappliance.com,reject,REJECT
@@ -1416,6 +1423,7 @@ HOST-SUFFIX,nappyattack.com,reject,REJECT
 HOST-SUFFIX,nappyneck.com,reject,REJECT
 HOST-SUFFIX,neatshade.com,reject,REJECT
 HOST-SUFFIX,nebulacrescent.com,reject,REJECT
+HOST-SUFFIX,nebulousamusement.com,reject,REJECT
 HOST-SUFFIX,nebulousripple.com,reject,REJECT
 HOST-SUFFIX,necessarywax.com,reject,REJECT
 HOST-SUFFIX,needlessnorth.com,reject,REJECT
@@ -1444,6 +1452,7 @@ HOST-SUFFIX,numberlessring.com,reject,REJECT
 HOST-SUFFIX,numerousnest.com,reject,REJECT
 HOST-SUFFIX,nutritiousbean.com,reject,REJECT
 HOST-SUFFIX,nuttyorganization.com,reject,REJECT
+HOST-SUFFIX,oafishchance.com,reject,REJECT
 HOST-SUFFIX,oafishobservation.com,reject,REJECT
 HOST-SUFFIX,obscenesidewalk.com,reject,REJECT
 HOST-SUFFIX,observantice.com,reject,REJECT
@@ -1512,6 +1521,7 @@ HOST-SUFFIX,pinpointpotato.com,reject,REJECT
 HOST-SUFFIX,piquantpigs.com,reject,REJECT
 HOST-SUFFIX,piquantprice.com,reject,REJECT
 HOST-SUFFIX,piquantstove.com,reject,REJECT
+HOST-SUFFIX,piquantvortex.com,reject,REJECT
 HOST-SUFFIX,pizzasnut.com,reject,REJECT
 HOST-SUFFIX,placeframe.com,reject,REJECT
 HOST-SUFFIX,placidactivity.com,reject,REJECT
@@ -1693,6 +1703,7 @@ HOST-SUFFIX,roofrelation.com,reject,REJECT
 HOST-SUFFIX,roomyreading.com,reject,REJECT
 HOST-SUFFIX,roseincome.com,reject,REJECT
 HOST-SUFFIX,rottenray.com,reject,REJECT
+HOST-SUFFIX,roughharmony.com,reject,REJECT
 HOST-SUFFIX,roughroll.com,reject,REJECT
 HOST-SUFFIX,ruddycast.com,reject,REJECT
 HOST-SUFFIX,ruddywash.com,reject,REJECT
@@ -1763,6 +1774,7 @@ HOST-SUFFIX,secretspiders.com,reject,REJECT
 HOST-SUFFIX,secretturtle.com,reject,REJECT
 HOST-SUFFIX,sedatebun.com,reject,REJECT
 HOST-SUFFIX,seedscissors.com,reject,REJECT
+HOST-SUFFIX,seemlysuggestion.com,reject,REJECT
 HOST-SUFFIX,selectionship.com,reject,REJECT
 HOST-SUFFIX,selectivesummer.com,reject,REJECT
 HOST-SUFFIX,selfishsea.com,reject,REJECT
@@ -1906,6 +1918,7 @@ HOST-SUFFIX,spookyexchange.com,reject,REJECT
 HOST-SUFFIX,spookyskate.com,reject,REJECT
 HOST-SUFFIX,spookysleet.com,reject,REJECT
 HOST-SUFFIX,spookyslope.com,reject,REJECT
+HOST-SUFFIX,spookystitch.com,reject,REJECT
 HOST-SUFFIX,spoonsilk.com,reject,REJECT
 HOST-SUFFIX,spotlessstamp.com,reject,REJECT
 HOST-SUFFIX,spotstring.com,reject,REJECT
@@ -1915,6 +1928,7 @@ HOST-SUFFIX,spottedsnow.com,reject,REJECT
 HOST-SUFFIX,springaftermath.com,reject,REJECT
 HOST-SUFFIX,springsister.com,reject,REJECT
 HOST-SUFFIX,springsnails.com,reject,REJECT
+HOST-SUFFIX,sprydelta.com,reject,REJECT
 HOST-SUFFIX,spuriousair.com,reject,REJECT
 HOST-SUFFIX,spuriousbase.com,reject,REJECT
 HOST-SUFFIX,spurioussquirrel.com,reject,REJECT
@@ -2020,6 +2034,7 @@ HOST-SUFFIX,superficialeyes.com,reject,REJECT
 HOST-SUFFIX,superficialspring.com,reject,REJECT
 HOST-SUFFIX,superficialsquare.com,reject,REJECT
 HOST-SUFFIX,supervisegoldfish.com,reject,REJECT
+HOST-SUFFIX,superviseshoes.com,reject,REJECT
 HOST-SUFFIX,supportwaves.com,reject,REJECT
 HOST-SUFFIX,suspectmark.com,reject,REJECT
 HOST-SUFFIX,suspendseed.com,reject,REJECT
@@ -2111,6 +2126,7 @@ HOST-SUFFIX,torpidtoothpaste.com,reject,REJECT
 HOST-SUFFIX,toweringrun.com,reject,REJECT
 HOST-SUFFIX,tradetooth.com,reject,REJECT
 HOST-SUFFIX,tranquilamulet.com,reject,REJECT
+HOST-SUFFIX,tranquilarchipelago.com,reject,REJECT
 HOST-SUFFIX,tranquilcanyon.com,reject,REJECT
 HOST-SUFFIX,tranquilplume.com,reject,REJECT
 HOST-SUFFIX,tranquilside.com,reject,REJECT
@@ -2234,6 +2250,7 @@ HOST-SUFFIX,womanear.com,reject,REJECT
 HOST-SUFFIX,workableachiever.com,reject,REJECT
 HOST-SUFFIX,workoperation.com,reject,REJECT
 HOST-SUFFIX,worriednumber.com,reject,REJECT
+HOST-SUFFIX,worriedwine.com,reject,REJECT
 HOST-SUFFIX,wrapstretch.com,reject,REJECT
 HOST-SUFFIX,wreckvolcano.com,reject,REJECT
 HOST-SUFFIX,writewealth.com,reject,REJECT
@@ -2740,6 +2757,7 @@ HOST-SUFFIX,hpr.outbrain.com,reject,REJECT
 HOST-SUFFIX,hspbotdetection.azurewebsites.net,reject,REJECT
 HOST-SUFFIX,hydro-ma-proxy.akamaized.net,reject,REJECT
 HOST-SUFFIX,i.compendium.com,reject,REJECT
+HOST-SUFFIX,i.posthog.com,reject,REJECT
 HOST-SUFFIX,i.viafoura.co,reject,REJECT
 HOST-SUFFIX,iabusprivacy.pmc.com,reject,REJECT
 HOST-SUFFIX,icu.getstorybox.com,reject,REJECT
@@ -4293,6 +4311,7 @@ HOST-SUFFIX,mcc-tags.cisco.com,reject,REJECT
 HOST-SUFFIX,mcs-va.tiktokv.com,reject,REJECT
 HOST-SUFFIX,mcs.tiktokv.us,reject,REJECT
 HOST-SUFFIX,mcs.us.tiktokv.com,reject,REJECT
+HOST-SUFFIX,megatron.igraal.com,reject,REJECT
 HOST-SUFFIX,metrics.audius.co,reject,REJECT
 HOST-SUFFIX,metrics.bangbros.com,reject,REJECT
 HOST-SUFFIX,metrics.camsoda.com,reject,REJECT
@@ -38914,6 +38933,7 @@ HOST-SUFFIX,tla.traderlink.com,reject,REJECT
 HOST-SUFFIX,track.tesiteca.it,reject,REJECT
 HOST-SUFFIX,tracker.stileo.it,reject,REJECT
 HOST-SUFFIX,tracking.gruppo.mps.it,reject,REJECT
+HOST-SUFFIX,analysis.aws.locondo.jp,reject,REJECT
 HOST-SUFFIX,analytics.castel.jp,reject,REJECT
 HOST-SUFFIX,analytics.cocolog-nifty.com,reject,REJECT
 HOST-SUFFIX,analytics.ikyu.com,reject,REJECT
