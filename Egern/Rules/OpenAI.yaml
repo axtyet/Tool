@@ -15,6 +15,7 @@ domain_suffix_set:
 - algolia.net
 - auth0.com
 - cdn.cloudflare.net
+- chatgpt.com
 - challenges.cloudflare.com
 - client-api.arkoselabs.com
 - events.statsigapi.net
