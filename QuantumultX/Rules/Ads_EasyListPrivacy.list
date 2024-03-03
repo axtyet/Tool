@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403021053
+## ! Version: 202403031233
 ## ! Title: EasyPrivacy
-## ! Last modified: 02 Mar 2024 10:53 UTC
+## ! Last modified: 03 Mar 2024 12:33 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4174,6 +4174,7 @@ HOST-SUFFIX,dbhsejcg-meetup-com.cdnjs.network,reject,REJECT
 HOST-SUFFIX,dc.banggood.com,reject,REJECT
 HOST-SUFFIX,dd.auspost.com.au,reject,REJECT
 HOST-SUFFIX,dd.nytimes.com,reject,REJECT
+HOST-SUFFIX,ddome-tag.blablacar.com,reject,REJECT
 HOST-SUFFIX,deliver.ptgncdn.com,reject,REJECT
 HOST-SUFFIX,discover-metrics.cloud.seek.com.au,reject,REJECT
 HOST-SUFFIX,dls-account.di.atlas.samsung.com,reject,REJECT
