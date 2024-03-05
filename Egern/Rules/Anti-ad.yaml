@@ -30844,8 +30844,6 @@ domain_suffix_set:
 - connect.facebook.com
 - graph-fallback.facebook.com
 - mqtt-mini.facebook.com
-- star.c10r.facebook.com
-- star.fallback.c10r.facebook.com
 - staticxx.facebook.com
 - z-m-graph.facebook.com
 - connect.facebook.net
@@ -37535,7 +37533,6 @@ domain_suffix_set:
 - gvkqpogjqvni.com
 - gvkzvgm.com
 - gvmojhugkiud.com
-- gvt1-cn.com
 - gvyyhjyyfdgxij.xyz
 - gvzsrqp.com
 - gw-dv.vip
