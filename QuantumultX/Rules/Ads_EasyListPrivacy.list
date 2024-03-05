@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403041326
+## ! Version: 202403051444
 ## ! Title: EasyPrivacy
-## ! Last modified: 04 Mar 2024 13:26 UTC
+## ! Last modified: 05 Mar 2024 14:44 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3992,7 +3992,6 @@ HOST-SUFFIX,datanoticias.prisasd.com,reject,REJECT
 HOST-SUFFIX,g-stats.openhost.es,reject,REJECT
 HOST-SUFFIX,madrid.report.botm.transparentedge.io,reject,REJECT
 HOST-SUFFIX,mat.socy.es,reject,REJECT
-HOST-SUFFIX,mtm.qdqmedia.com,reject,REJECT
 HOST-SUFFIX,pub.servidoresge.com,reject,REJECT
 HOST-SUFFIX,rt.cdnmedia.tv,reject,REJECT
 HOST-SUFFIX,sp.vtex.com,reject,REJECT
