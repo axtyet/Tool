@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403061509
+## ! Version: 202403071032
 ## ! Title: EasyPrivacy
-## ! Last modified: 06 Mar 2024 15:09 UTC
+## ! Last modified: 07 Mar 2024 10:32 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4115,6 +4115,7 @@ HOST-SUFFIX,bfp.capitalone.com,reject,REJECT
 HOST-SUFFIX,bi.banggood.com,reject,REJECT
 HOST-SUFFIX,binocule21c.merriam-webster.com,reject,REJECT
 HOST-SUFFIX,blitz-analytics-batch-server.blitz.gg,reject,REJECT
+HOST-SUFFIX,blue.nbc4i.com,reject,REJECT
 HOST-SUFFIX,boomerang.dell.com,reject,REJECT
 HOST-SUFFIX,c.fingerprint.com,reject,REJECT
 HOST-SUFFIX,c.newyorker.com,reject,REJECT
