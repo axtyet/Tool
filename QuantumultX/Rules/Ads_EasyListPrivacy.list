@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403071032
+## ! Version: 202403091019
 ## ! Title: EasyPrivacy
-## ! Last modified: 07 Mar 2024 10:32 UTC
+## ! Last modified: 09 Mar 2024 10:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -122,6 +122,7 @@ HOST-SUFFIX,envato.market,reject,REJECT
 HOST-SUFFIX,epsilondelta.co,reject,REJECT
 HOST-SUFFIX,eqy.link,reject,REJECT
 HOST-SUFFIX,etop.ro,reject,REJECT
+HOST-SUFFIX,eval.privateapi.click,reject,REJECT
 HOST-SUFFIX,everesttech.net,reject,REJECT
 HOST-SUFFIX,experianmatch.info,reject,REJECT
 HOST-SUFFIX,ezodn.com,reject,REJECT
@@ -167,6 +168,7 @@ HOST-SUFFIX,g990421676.co,reject,REJECT
 HOST-SUFFIX,gbqofs.com,reject,REJECT
 HOST-SUFFIX,geoedge.be,reject,REJECT
 HOST-SUFFIX,geotargetly-api-*.com,reject,REJECT
+HOST-SUFFIX,getdeviceinf.com,reject,REJECT
 HOST-SUFFIX,glamipixel.com,reject,REJECT
 HOST-SUFFIX,glimr.io,reject,REJECT
 HOST-SUFFIX,glookup.info,reject,REJECT
@@ -269,7 +271,6 @@ HOST-SUFFIX,pixmg.com,reject,REJECT
 HOST-SUFFIX,pixrealm.com,reject,REJECT
 HOST-SUFFIX,pjstat.com,reject,REJECT
 HOST-SUFFIX,plausiblecdn.co,reject,REJECT
-HOST-SUFFIX,privateapi.click,reject,REJECT
 HOST-SUFFIX,procroanalytics.com,reject,REJECT
 HOST-SUFFIX,progmxs.com,reject,REJECT
 HOST-SUFFIX,pushvisit.xyz,reject,REJECT
@@ -2708,6 +2709,7 @@ HOST-SUFFIX,f-log-at.grammarly.io,reject,REJECT
 HOST-SUFFIX,f-log-test.grammarly.io,reject,REJECT
 HOST-SUFFIX,fcmatch.google.com,reject,REJECT
 HOST-SUFFIX,fcmatch.youtube.com,reject,REJECT
+HOST-SUFFIX,feliz.data.tm-awx.com,reject,REJECT
 HOST-SUFFIX,filament-stats.herokuapp.com,reject,REJECT
 HOST-SUFFIX,fingerprinter-production.herokuapp.com,reject,REJECT
 HOST-SUFFIX,firebaselogging-pa.googleapis.com,reject,REJECT
@@ -38997,6 +38999,7 @@ HOST-SUFFIX,data-logdelivery.wconcept.co.kr,reject,REJECT
 HOST-SUFFIX,hits.zdnet.co.kr,reject,REJECT
 HOST-SUFFIX,kyson.kakao.com,reject,REJECT
 HOST-SUFFIX,l.m.naver.com,reject,REJECT
+HOST-SUFFIX,ljc.coupang.com,reject,REJECT
 HOST-SUFFIX,log.etoday.co.kr,reject,REJECT
 HOST-SUFFIX,log.kinolights.com,reject,REJECT
 HOST-SUFFIX,log.zdnet.co.kr,reject,REJECT
