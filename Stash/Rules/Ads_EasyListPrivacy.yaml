@@ -1,8 +1,8 @@
 payload:
 ## [Adblock Plus 1.1]
-## ! Version: 202403101058
+## ! Version: 202403111431
 ## ! Title: EasyPrivacy
-## ! Last modified: 10 Mar 2024 10:58 UTC
+## ! Last modified: 11 Mar 2024 14:31 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -39000,7 +39000,6 @@ payload:
   - DOMAIN-SUFFIX,hits.zdnet.co.kr
   - DOMAIN-SUFFIX,kyson.kakao.com
   - DOMAIN-SUFFIX,l.m.naver.com
-  - DOMAIN-SUFFIX,ljc.coupang.com
   - DOMAIN-SUFFIX,log.etoday.co.kr
   - DOMAIN-SUFFIX,log.kinolights.com
   - DOMAIN-SUFFIX,log.zdnet.co.kr
