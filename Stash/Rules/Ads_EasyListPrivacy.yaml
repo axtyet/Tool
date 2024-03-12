@@ -1,8 +1,8 @@
 payload:
 ## [Adblock Plus 1.1]
-## ! Version: 202403111431
+## ! Version: 202403121150
 ## ! Title: EasyPrivacy
-## ! Last modified: 11 Mar 2024 14:31 UTC
+## ! Last modified: 12 Mar 2024 11:50 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,adspsp.com
   - DOMAIN-SUFFIX,adstk.io
   - DOMAIN-SUFFIX,adultium.com
+  - DOMAIN-SUFFIX,aggle.net
   - DOMAIN-SUFFIX,agkn.com
   - DOMAIN-SUFFIX,agma-analytics.de
   - DOMAIN-SUFFIX,allvideometrika.com
@@ -84,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,cliquelead.com
   - DOMAIN-SUFFIX,cloudwp.io
   - DOMAIN-SUFFIX,clrt.ai
+  - DOMAIN-SUFFIX,cnna.io
   - DOMAIN-SUFFIX,cntxtfl.com
   - DOMAIN-SUFFIX,confiant-integrations.net
   - DOMAIN-SUFFIX,convead.io
@@ -167,6 +169,7 @@ payload:
   - DOMAIN-SUFFIX,g990421675.co
   - DOMAIN-SUFFIX,g990421676.co
   - DOMAIN-SUFFIX,gbqofs.com
+  - DOMAIN-SUFFIX,gcprivacy.com
   - DOMAIN-SUFFIX,geoedge.be
   - DOMAIN-SUFFIX,geotargetly-api-*.com
   - DOMAIN-SUFFIX,getdeviceinf.com
@@ -3144,6 +3147,7 @@ payload:
   - DOMAIN-SUFFIX,t.signalayer.com
   - DOMAIN-SUFFIX,t.skimresources.com
   - DOMAIN-SUFFIX,t.smile.eu
+  - DOMAIN-SUFFIX,t.spbx.app
   - DOMAIN-SUFFIX,t.splicky.com
   - DOMAIN-SUFFIX,t.spot.im
   - DOMAIN-SUFFIX,t2.t2b.click
