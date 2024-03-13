@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403121150
+## ! Version: 202403131539
 ## ! Title: EasyPrivacy
-## ! Last modified: 12 Mar 2024 11:50 UTC
+## ! Last modified: 13 Mar 2024 15:39 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -124,7 +124,6 @@ HOST-SUFFIX,envato.market,reject,REJECT
 HOST-SUFFIX,epsilondelta.co,reject,REJECT
 HOST-SUFFIX,eqy.link,reject,REJECT
 HOST-SUFFIX,etop.ro,reject,REJECT
-HOST-SUFFIX,eval.privateapi.click,reject,REJECT
 HOST-SUFFIX,everesttech.net,reject,REJECT
 HOST-SUFFIX,experianmatch.info,reject,REJECT
 HOST-SUFFIX,ezodn.com,reject,REJECT
@@ -38947,6 +38946,7 @@ HOST-SUFFIX,tla.traderlink.com,reject,REJECT
 HOST-SUFFIX,track.tesiteca.it,reject,REJECT
 HOST-SUFFIX,tracker.stileo.it,reject,REJECT
 HOST-SUFFIX,tracking.gruppo.mps.it,reject,REJECT
+HOST-SUFFIX,track.prod.smash.pet,reject,REJECT
 HOST-SUFFIX,analysis.aws.locondo.jp,reject,REJECT
 HOST-SUFFIX,analytics.castel.jp,reject,REJECT
 HOST-SUFFIX,analytics.cocolog-nifty.com,reject,REJECT
