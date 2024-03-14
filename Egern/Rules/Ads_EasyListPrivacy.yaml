@@ -38931,7 +38931,6 @@ domain_suffix_set:
 - track.tesiteca.it
 - tracker.stileo.it
 - tracking.gruppo.mps.it
-- track.prod.smash.pet
 - analysis.aws.locondo.jp
 - analytics.castel.jp
 - analytics.cocolog-nifty.com
@@ -38972,6 +38971,7 @@ domain_suffix_set:
 - sy.ameblo.jp
 - t.syosetu.org
 - track.buyma.com
+- track.prod.smash.pet
 - tracking.ai.rakuten.co.jp
 - tracking.game8.jp
 - tracking.gnavi.co.jp
