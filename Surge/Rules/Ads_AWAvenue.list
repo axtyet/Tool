@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.0
-# 更新时间: 2024-02-29
+# 更新时间: 2024-03-14
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -16,6 +16,7 @@
 # 
 
 DOMAIN-SUFFIX,1010pic.com
+DOMAIN-SUFFIX,182.254.116.116
 DOMAIN-SUFFIX,8le8le.com
 DOMAIN-SUFFIX,a0.app.xiaomi.com
 DOMAIN-SUFFIX,aaid.umeng.com
@@ -50,6 +51,7 @@ DOMAIN-SUFFIX,adexpo.tencentmusic.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adjust.cn
 DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adlink-api.huan.tv
 DOMAIN-SUFFIX,adlog.flurry.com
 DOMAIN-SUFFIX,ads-api-o.api.leiniao.com
 DOMAIN-SUFFIX,ads-api.tiktok.com
@@ -275,6 +277,7 @@ DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
 DOMAIN-SUFFIX,lf3-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN-SUFFIX,liveats-vod.video.ptqy.gitv.tv
 DOMAIN-SUFFIX,lm10111.jtrincc.cn
+DOMAIN-SUFFIX,log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com
 DOMAIN-SUFFIX,log-api-mn.huxiu.com
 DOMAIN-SUFFIX,log-api.huxiu.com
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao-b.com
