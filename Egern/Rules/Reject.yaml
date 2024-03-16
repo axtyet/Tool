@@ -219,7 +219,6 @@ domain_set:
 - glitter.services.disqus.com
 - goblin.hupu.com
 - gorgon.youdao.com
-- gwp.xiaojukeji.com
 - hbftgh.ibjkqnhjwd.xyz
 - hdns.ksyun.com
 - hm.baidu.com
@@ -1461,6 +1460,8 @@ ip_cidr_set:
 - 121.196.197.147/32
 - 122.229.29.89/32
 - 122.229.8.47/32
+- 123.207.209.39/32
+- 123.207.209.60/32
 - 123.56.152.96/32
 - 124.14.21.147/32
 - 124.14.21.151/32

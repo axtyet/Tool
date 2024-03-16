@@ -219,7 +219,6 @@ DOMAIN,ggx03.miguvideo.com
 DOMAIN,glitter.services.disqus.com
 DOMAIN,goblin.hupu.com
 DOMAIN,gorgon.youdao.com
-DOMAIN,gwp.xiaojukeji.com
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
 DOMAIN,hdns.ksyun.com
 DOMAIN,hm.baidu.com
@@ -1457,6 +1456,8 @@ IP-CIDR,120.76.189.132/32,no-resolve
 IP-CIDR,121.196.197.147/32,no-resolve
 IP-CIDR,122.229.29.89/32,no-resolve
 IP-CIDR,122.229.8.47/32,no-resolve
+IP-CIDR,123.207.209.39/32,no-resolve
+IP-CIDR,123.207.209.60/32,no-resolve
 IP-CIDR,123.56.152.96/32,no-resolve
 IP-CIDR,124.14.21.147/32,no-resolve
 IP-CIDR,124.14.21.151/32,no-resolve

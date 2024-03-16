@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.1
-# 更新时间: 2024-03-15
+# 更新时间: 2024-03-16
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -17,6 +17,7 @@
 
 DOMAIN-SUFFIX,1010pic.com
 DOMAIN-SUFFIX,182.254.116.116
+DOMAIN-SUFFIX,203.205.137.89
 DOMAIN-SUFFIX,8le8le.com
 DOMAIN-SUFFIX,a0.app.xiaomi.com
 DOMAIN-SUFFIX,aaid.umeng.com
@@ -64,6 +65,7 @@ DOMAIN-SUFFIX,ads.flurry.com
 DOMAIN-SUFFIX,ads.google.cn
 DOMAIN-SUFFIX,ads.heytapmobi.com
 DOMAIN-SUFFIX,ads.huan.tv
+DOMAIN-SUFFIX,ads.huantest.com
 DOMAIN-SUFFIX,ads.icloseli.cn
 DOMAIN-SUFFIX,ads.music.126.net
 DOMAIN-SUFFIX,ads.oppomobile.com
@@ -85,6 +87,7 @@ DOMAIN-SUFFIX,adsfilebssdlbig.ali.kugou.com
 DOMAIN-SUFFIX,adsfileretry.service.kugou.com
 DOMAIN-SUFFIX,adsfs-sdkconfig.heytapimage.com
 DOMAIN-SUFFIX,adsfs.oppomobile.com
+DOMAIN-SUFFIX,adsmart.konka.com
 DOMAIN-SUFFIX,adsmind.gdtimg.com
 DOMAIN-SUFFIX,adsmind.ugdtimg.com
 DOMAIN-SUFFIX,adsp.xunlei.com
@@ -102,6 +105,7 @@ DOMAIN-SUFFIX,advertising.yahoo.com
 DOMAIN-SUFFIX,advertising.yandex.ru
 DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
 DOMAIN-SUFFIX,adview.cn
+DOMAIN-SUFFIX,adx-ad.smart-tv.cn
 DOMAIN-SUFFIX,adx-cn.anythinktech.com
 DOMAIN-SUFFIX,adx-drcn.op.dbankcloud.cn
 DOMAIN-SUFFIX,adx.ads.heytapmobi.com
@@ -331,6 +335,7 @@ DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,mobilelog.upqzfile.com
 DOMAIN-SUFFIX,mobileservice.cn
 DOMAIN-SUFFIX,mon.zijieapi.com
+DOMAIN-SUFFIX,monitor-ads-test.huan.tv
 DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,monsetting.toutiao.com
