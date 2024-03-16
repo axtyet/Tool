@@ -1,8 +1,8 @@
 payload:
 ## [Adblock Plus 1.1]
-## ! Version: 202403151507
+## ! Version: 202403161256
 ## ! Title: EasyPrivacy
-## ! Last modified: 15 Mar 2024 15:07 UTC
+## ! Last modified: 16 Mar 2024 12:56 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4063,6 +4063,7 @@ payload:
   - DOMAIN-SUFFIX,analytics-tracking.meetup.com
   - DOMAIN-SUFFIX,analytics-wcms.joins.net
   - DOMAIN-SUFFIX,analytics-zone-1.api.leadfamly.com
+  - DOMAIN-SUFFIX,analytics.3c5.com
   - DOMAIN-SUFFIX,analytics.academy.com
   - DOMAIN-SUFFIX,analytics.adfreetime.com
   - DOMAIN-SUFFIX,analytics.archive.org
