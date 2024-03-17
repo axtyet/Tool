@@ -586,7 +586,7 @@ HOST,r.51wnl-cq.com,REJECT
 
 # (A)
 # > Apple
-HOST-SUFFIX,iadsdk.apple.comX,REJECT
+HOST-SUFFIX,iadsdk.apple.com,REJECT
 HOST-SUFFIX,ads.internal.unity3d.com,REJECT
 HOST-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
 HOST-SUFFIX,unityads.unity3d.com,REJECT

@@ -846,7 +846,6 @@ HOST-SUFFIX,iad-08.braze.com,REJECT
 HOST-SUFFIX,iad-apple.com,REJECT
 HOST-SUFFIX,iad.appboy.com,REJECT
 HOST-SUFFIX,iadsdk.apple.com,REJECT
-HOST-SUFFIX,iadsdk.apple.comX,REJECT
 HOST-SUFFIX,ichaosheng.com,REJECT
 HOST-SUFFIX,iconworkshop.cn,REJECT
 HOST-SUFFIX,idealads.net,REJECT
