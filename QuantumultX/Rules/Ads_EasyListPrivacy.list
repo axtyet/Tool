@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403161256
+## ! Version: 202403171100
 ## ! Title: EasyPrivacy
-## ! Last modified: 16 Mar 2024 12:56 UTC
+## ! Last modified: 17 Mar 2024 11:00 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -88,7 +88,6 @@ HOST-SUFFIX,cnna.io,reject,REJECT
 HOST-SUFFIX,cntxtfl.com,reject,REJECT
 HOST-SUFFIX,confiant-integrations.net,reject,REJECT
 HOST-SUFFIX,convead.io,reject,REJECT
-HOST-SUFFIX,conversationalsdevelopment.nl,reject,REJECT
 HOST-SUFFIX,convertlink.com,reject,REJECT
 HOST-SUFFIX,cpx.to,reject,REJECT
 HOST-SUFFIX,crwdcntrl.net,reject,REJECT
@@ -4195,11 +4194,13 @@ HOST-SUFFIX,dot.nonolive.com,reject,REJECT
 HOST-SUFFIX,dp.shoprunner.com,reject,REJECT
 HOST-SUFFIX,dtag.breadfinancial.com,reject,REJECT
 HOST-SUFFIX,dumpster.cam4.com,reject,REJECT
+HOST-SUFFIX,e.quizlet.com,reject,REJECT
 HOST-SUFFIX,ea.epochbase.com,reject,REJECT
 HOST-SUFFIX,ec.thredup.com,reject,REJECT
 HOST-SUFFIX,edge.staging.fullstory.com,reject,REJECT
 HOST-SUFFIX,eec.crunchyroll.com,reject,REJECT
 HOST-SUFFIX,ejlytics.editorji.com,reject,REJECT
+HOST-SUFFIX,el.quizlet.com,reject,REJECT
 HOST-SUFFIX,engagefront.meteomedia.com,reject,REJECT
 HOST-SUFFIX,engagefront.theweathernetwork.com,reject,REJECT
 HOST-SUFFIX,engagement.feedly.com,reject,REJECT
