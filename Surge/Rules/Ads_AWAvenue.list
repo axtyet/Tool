@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
-# 规则版本: 1.4.1
-# 更新时间: 2024-03-19
+# 规则版本: 1.4.2
+# 更新时间: 2024-03-20
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,ad.flurry.com
 DOMAIN-SUFFIX,ad.partner.gifshow.com
 DOMAIN-SUFFIX,ad.qingting.fm
 DOMAIN-SUFFIX,ad.qq.com
+DOMAIN-SUFFIX,ad.richmob.cn
 DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.toutiao.com
 DOMAIN-SUFFIX,ad.winrar.com.cn
@@ -146,10 +147,10 @@ DOMAIN-SUFFIX,api5-normal-quic-lf.ixigua.com
 DOMAIN-SUFFIX,apiyd.my91app.com
 DOMAIN-SUFFIX,apks.webxiaobai.top
 DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,appcloud2.in.zhihu.com
 DOMAIN-SUFFIX,applog.lc.quark.cn
 DOMAIN-SUFFIX,applog.uc.cn
 DOMAIN-SUFFIX,applog.zijieapi.com
-DOMAIN-SUFFIX,appcloud2.in.zhihu.com
 DOMAIN-SUFFIX,ata-sdk-uuid-report.dreport.meituan.net
 DOMAIN-SUFFIX,audid-api.taobao.com
 DOMAIN-SUFFIX,audid.umeng.com
@@ -204,6 +205,7 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,download.changhong.upgrade2.huan.tv
 DOMAIN-SUFFIX,downloadxml.changhong.upgrade2.huan.tv
 DOMAIN-SUFFIX,drcn-weather.cloud.huawei.com
+DOMAIN-SUFFIX,dsp-x.jd.com
 DOMAIN-SUFFIX,dsp.fcbox.com
 DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,dutils.com
@@ -277,7 +279,9 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jpush.html5.qq.com
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,jswebcollects.kugou.com
+DOMAIN-SUFFIX,kepler.jd.com
 DOMAIN-SUFFIX,kl.67it.com
+DOMAIN-SUFFIX,knicks.jd.com
 DOMAIN-SUFFIX,ks.pull.yximgs.com
 DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
 DOMAIN-SUFFIX,lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -316,6 +320,7 @@ DOMAIN-SUFFIX,logtj.kugou.com
 DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX,m.kubiqq.com
 DOMAIN-SUFFIX,m1.ad.10010.com
+DOMAIN-SUFFIX,mapi.m.jd.com
 DOMAIN-SUFFIX,masdkv6.3g.qq.com
 DOMAIN-SUFFIX,mazu.m.qq.com
 DOMAIN-SUFFIX,mdp-usertrace-cn.heytapmobi.com
@@ -355,6 +360,7 @@ DOMAIN-SUFFIX,open.kuaishouzt.com
 DOMAIN-SUFFIX,open.kwaishouzt.com
 DOMAIN-SUFFIX,open.kwaizt.com
 DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,orbit.jd.com
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com
 DOMAIN-SUFFIX,oth.str.mdt.qq.com
 DOMAIN-SUFFIX,p.l.qq.com
@@ -371,6 +377,7 @@ DOMAIN-SUFFIX,p5-be-pack-sign.pglstatp-toutiao.com
 DOMAIN-SUFFIX,p6-be-pack-sign.pglstatp-toutiao.com
 DOMAIN-SUFFIX,pagead2.googleadservices.com
 DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,panglelog.gz.bcebos.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pgdt.ugdtimg.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
@@ -420,6 +427,7 @@ DOMAIN-SUFFIX,sensors-log.dongqiudi.com
 DOMAIN-SUFFIX,service.changhong.upgrade2.huan.tv
 DOMAIN-SUFFIX,service.vmos.cn
 DOMAIN-SUFFIX,sf16-static.i18n-pglstatp.com
+DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
 DOMAIN-SUFFIX,shouji.sogou.com
 DOMAIN-SUFFIX,skdisplay.jd.com
 DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
@@ -460,8 +468,11 @@ DOMAIN-SUFFIX,tnc3-aliec1.toutiaoapi.com
 DOMAIN-SUFFIX,tnc3-aliec2.bytedance.com
 DOMAIN-SUFFIX,tnc3-aliec2.toutiaoapi.com
 DOMAIN-SUFFIX,tnc3-alisc1.bytedance.com
+DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
+DOMAIN-SUFFIX,tnc3-alisc2.zijieapi.com
 DOMAIN-SUFFIX,tnc3-bjlgy.bytedance.com
 DOMAIN-SUFFIX,tnc3-bjlgy.toutiaoapi.com
+DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
 DOMAIN-SUFFIX,toblog.ctobsnssdk.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,track.lc.quark.cn
