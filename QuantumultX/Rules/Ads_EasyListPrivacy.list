@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403221503
+## ! Version: 202403231529
 ## ! Title: EasyPrivacy
-## ! Last modified: 22 Mar 2024 15:03 UTC
+## ! Last modified: 23 Mar 2024 15:29 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -219,6 +219,7 @@ HOST-SUFFIX,logicanalytics.io,reject,REJECT
 HOST-SUFFIX,logtail.com,reject,REJECT
 HOST-SUFFIX,loopcybersec.com,reject,REJECT
 HOST-SUFFIX,lsdm.co,reject,REJECT
+HOST-SUFFIX,lyfnh.io,reject,REJECT
 HOST-SUFFIX,maggieeatstheangel.com,reject,REJECT
 HOST-SUFFIX,matheranalytics.com,reject,REJECT
 HOST-SUFFIX,mathilde-ads.com,reject,REJECT
@@ -2467,6 +2468,7 @@ HOST-SUFFIX,b7tp47v2nb3x-a.akamaihd.net,reject,REJECT
 HOST-SUFFIX,bacon.section.io,reject,REJECT
 HOST-SUFFIX,barium.cheezdev.com,reject,REJECT
 HOST-SUFFIX,bat.bing.com,reject,REJECT
+HOST-SUFFIX,baxter.olx.org,reject,REJECT
 HOST-SUFFIX,bc.marfeelcache.com,reject,REJECT
 HOST-SUFFIX,beacon.adelphic.com,reject,REJECT
 HOST-SUFFIX,beacon.affil.walmart.com,reject,REJECT
@@ -3996,6 +3998,7 @@ HOST-SUFFIX,collector-videoplayer.5centscdn.net,reject,REJECT
 HOST-SUFFIX,contador.biobiochile.cl,reject,REJECT
 HOST-SUFFIX,contadores.miarroba.com,reject,REJECT
 HOST-SUFFIX,contadores.miarroba.es,reject,REJECT
+HOST-SUFFIX,count.sibbo.net,reject,REJECT
 HOST-SUFFIX,creatives.sunmedia.tv,reject,REJECT
 HOST-SUFFIX,ctx.citiservi.es,reject,REJECT
 HOST-SUFFIX,datanoticias.prisasd.com,reject,REJECT
@@ -4180,6 +4183,7 @@ HOST-SUFFIX,cstats.sankakucomplex.com,reject,REJECT
 HOST-SUFFIX,cwt.citywire.info,reject,REJECT
 HOST-SUFFIX,d.skk.moe,reject,REJECT
 HOST-SUFFIX,d401.dollartree.com,reject,REJECT
+HOST-SUFFIX,dabu.askmediagroup.com,reject,REJECT
 HOST-SUFFIX,data.allstate.com,reject,REJECT
 HOST-SUFFIX,data.guide.photobucket.com,reject,REJECT
 HOST-SUFFIX,data.torry.io,reject,REJECT
