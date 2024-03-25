@@ -1,8 +1,8 @@
 payload:
 ## [Adblock Plus 1.1]
-## ! Version: 202403241530
+## ! Version: 202403251356
 ## ! Title: EasyPrivacy
-## ! Last modified: 24 Mar 2024 15:30 UTC
+## ! Last modified: 25 Mar 2024 13:56 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3004,6 +3004,7 @@ payload:
   - DOMAIN-SUFFIX,rtxpx-a.akamaihd.net
   - DOMAIN-SUFFIX,rum.azion.com
   - DOMAIN-SUFFIX,rum.azioncdn.net
+  - DOMAIN-SUFFIX,rum.corewebvitals.io
   - DOMAIN-SUFFIX,rum.ingress.layer0.co
   - DOMAIN-SUFFIX,rum.layer0.co
   - DOMAIN-SUFFIX,rum.perfops.net
@@ -3491,6 +3492,7 @@ payload:
   - DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net
   - DOMAIN-SUFFIX,dd6zx4ibq538k.cloudfront.net
   - DOMAIN-SUFFIX,dggaenaawxe8z.cloudfront.net
+  - DOMAIN-SUFFIX,dh0c1bz67fuho.cloudfront.net
   - DOMAIN-SUFFIX,di2xwvxz1jrvu.cloudfront.net
   - DOMAIN-SUFFIX,dkupaw9ae63a8.cloudfront.net
   - DOMAIN-SUFFIX,dl1d2m8ri9v3j.cloudfront.net
@@ -18803,7 +18805,6 @@ payload:
   - DOMAIN-SUFFIX,bersondeanstevens.actonservice.com
   - DOMAIN-SUFFIX,bestbuy.actonservice.com
   - DOMAIN-SUFFIX,bestinfo.bluetrustloans.com
-  - DOMAIN-SUFFIX,beyondmeasure.rigoltech.com
   - DOMAIN-SUFFIX,bgiamericas.actonservice.com
   - DOMAIN-SUFFIX,bi.concordesolutions.com
   - DOMAIN-SUFFIX,bigcustomernetwork.actonservice.com
