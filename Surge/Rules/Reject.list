@@ -173,6 +173,7 @@ DOMAIN,apppv.zol.com.cn
 DOMAIN,ark.letv.com
 DOMAIN,asimgs.pplive.cn
 DOMAIN,atrace.chelaile.net.cn
+DOMAIN,badjs.weixinbridge.com
 DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,banners.itunes.apple.com
 DOMAIN,brahe.apptimize.com
@@ -411,8 +412,6 @@ DOMAIN,ws.ksmobile.net
 DOMAIN,ws.tapjoyads.com
 DOMAIN,www.clarity.ms
 DOMAIN,www.googleadservices.com
-DOMAIN,wxsnsdy.wxs.qq.com
-DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,yandexmetrica.com
 DOMAIN,yk-ssp.ad.youku.com
 DOMAIN,ykad-data.youku.com
@@ -424,6 +423,7 @@ DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-adsystem.com
 DOMAIN-KEYWORD,112wan
+DOMAIN-KEYWORD,4240585f1fb7266
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adform
 DOMAIN-KEYWORD,ads.g.doubleclick
@@ -450,9 +450,6 @@ DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,in-page-push
 DOMAIN-KEYWORD,jads
 DOMAIN-KEYWORD,juruigj
-DOMAIN-KEYWORD,kc.saigmpl.com
-DOMAIN-KEYWORD,kcc.fwxhvvd.com
-DOMAIN-KEYWORD,kg.oiocklg.com
 DOMAIN-KEYWORD,lieyou
 DOMAIN-KEYWORD,mathtag
 DOMAIN-KEYWORD,mdapp09
@@ -1406,16 +1403,11 @@ IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,103.37.155.60/32,no-resolve
 IP-CIDR,103.41.167.237/32,no-resolve
 IP-CIDR,118.89.204.198/32,no-resolve
-IP-CIDR,120.27.235.201/32,no-resolve
-IP-CIDR,121.196.197.147/32,no-resolve
 IP-CIDR,124.192.153.42/32,no-resolve
 IP-CIDR,180.76.76.112/32,no-resolve
 IP-CIDR,180.76.76.200/32,no-resolve
 IP-CIDR,203.107.1.1/24,no-resolve
 IP-CIDR,47.110.187.87/32,no-resolve
-IP-CIDR,47.56.131.76/32,no-resolve
-IP-CIDR,47.97.215.55/32,no-resolve
-IP-CIDR,47.99.42.29/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
 USER-AGENT,AVOS*
