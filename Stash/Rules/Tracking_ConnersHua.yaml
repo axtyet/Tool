@@ -85,6 +85,8 @@ payload:
   # > GrowingIO
   - DOMAIN-SUFFIX,giocdn.com
   - DOMAIN-SUFFIX,growingio.com
+  # > Huawei
+  - DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn
   # > MI
   - DOMAIN-SUFFIX,tracking.miui.com
   # DOMAIN,api.miwifi.com

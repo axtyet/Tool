@@ -84,6 +84,8 @@ HOST-SUFFIX,gz-data.com,REJECT
 # > GrowingIO
 HOST-SUFFIX,giocdn.com,REJECT
 HOST-SUFFIX,growingio.com,REJECT
+# > Huawei
+HOST,browsercfg-drcn.cloud.dbankcloud.cn,REJECT
 # > MI
 HOST-SUFFIX,tracking.miui.com,REJECT
 # HOST,api.miwifi.com

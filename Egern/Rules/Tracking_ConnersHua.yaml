@@ -17,6 +17,7 @@ domain_set:
 - track.tiara.kakao.com
 - safebrowsing.googleapis.com
 - safebrowsing.googleapis-cn.com
+- browsercfg-drcn.cloud.dbankcloud.cn
 - data.mistat.xiaomi.com
 - flash.sec.miui.com
 - tracking.intl.miui.com
