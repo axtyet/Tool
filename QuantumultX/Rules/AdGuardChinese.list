@@ -205,10 +205,15 @@ HOST-SUFFIX,symaa.cn,REJECT
 HOST-SUFFIX,hbnygj.com,REJECT
 HOST-SUFFIX,https-filtering-check.adtidy.org,REJECT
 HOST-SUFFIX,cupfox.app,REJECT
+HOST-SUFFIX,gfchck.xyz,REJECT
+HOST-SUFFIX,knuinws.icu,REJECT
 HOST-SUFFIX,utewyc.xyz,REJECT
 HOST-SUFFIX,rpeutxu.icu,REJECT
 HOST-SUFFIX,shbxugs.cn,REJECT
 HOST-SUFFIX,clkwnl.xyz,REJECT
+HOST-SUFFIX,zjplnz.xyz,REJECT
+HOST-SUFFIX,crutvncf.top,REJECT
+HOST-SUFFIX,vinsgcs.com,REJECT
 HOST-SUFFIX,nxrajr.xyz,REJECT
 HOST-SUFFIX,hhausq.top,REJECT
 HOST-SUFFIX,baijs05.shop,REJECT
@@ -4861,7 +4866,6 @@ HOST-SUFFIX,b1.b2b168.net,REJECT
 HOST-SUFFIX,b1.c1km4.com,REJECT
 HOST-SUFFIX,b1.engdvd.com,REJECT
 HOST-SUFFIX,b1.xiao84.com,REJECT
-HOST-SUFFIX,b17.8794.cn,REJECT
 HOST-SUFFIX,b7sw62.pingshu8.xyz,REJECT
 HOST-SUFFIX,baidu1.cardbaobao.com,REJECT
 HOST-SUFFIX,baidu1.codejie.net,REJECT
@@ -5160,7 +5164,6 @@ HOST-SUFFIX,jibn12.jintang114.org,REJECT
 HOST-SUFFIX,jiliw.com,REJECT
 HOST-SUFFIX,jinhonghao.cn,REJECT
 HOST-SUFFIX,jintonghua.com,REJECT
-HOST-SUFFIX,jiyan.net,REJECT
 HOST-SUFFIX,jke1.jianke.com,REJECT
 HOST-SUFFIX,jquery.envi-met.com.cn,REJECT
 HOST-SUFFIX,js.263y.com,REJECT
