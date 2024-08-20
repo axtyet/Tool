@@ -207,6 +207,10 @@ HOST-SUFFIX,https-filtering-check.adtidy.org,REJECT
 HOST-SUFFIX,cupfox.app,REJECT
 HOST-SUFFIX,xmlgzr.xyz,REJECT
 HOST-SUFFIX,swarku.xyz,REJECT
+HOST-SUFFIX,iaindu.cn,REJECT
+HOST-SUFFIX,dqlrfmwp.icu,REJECT
+HOST-SUFFIX,cewrutf.top,REJECT
+HOST-SUFFIX,grihaith.com,REJECT
 HOST-SUFFIX,cb61190372.com,REJECT
 HOST-SUFFIX,uloscw.xyz,REJECT
 HOST-SUFFIX,gahejiao.com,REJECT
