@@ -194,6 +194,8 @@ HOST-SUFFIX,didiglobal.com,DIRECT
 HOST-SUFFIX,udache.com,DIRECT
 
 # Douyu 斗鱼
+HOST-SUFFIX,bytefcdnrd.com,DIRECT
+HOST-SUFFIX,edgesrv.com,DIRECT
 HOST-SUFFIX,douyu.com,DIRECT
 HOST-SUFFIX,douyu.tv,DIRECT
 HOST-SUFFIX,douyuscdn.com,DIRECT
