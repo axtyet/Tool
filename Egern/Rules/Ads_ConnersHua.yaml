@@ -83,6 +83,7 @@ domain_set:
 - duclick.baidu.com
 - mobads.baidu.com
 - mobads-logs.baidu.com
+- mobads-pre-config.cdn.bcebos.com
 - nadvideo2.baidu.com
 - nsclick.baidu.com
 - t7z.cupid.iqiyi.com
@@ -356,6 +357,7 @@ domain_suffix_set:
 - adflow.ru
 - adform.net
 - adinall.com
+- adintl.cn
 - adkernel.com
 - ad-locus.com
 - adlooxtracking.com
@@ -428,6 +430,7 @@ domain_suffix_set:
 - bayimob.com
 - beerto.cn
 - beilamusi.com
+- beizi.biz
 - benshiw.net
 - bianxianmao.com
 - bizible.com
