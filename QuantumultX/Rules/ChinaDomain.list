@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-29T18:44:17.273Z
-# Size: 743
+# Last Updated: 2024-10-29T19:31:24.747Z
+# Size: 744
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -40,6 +40,7 @@ HOST-SUFFIX,didi.cn,DIRECT
 HOST-SUFFIX,kuwo.cn,DIRECT
 HOST-SUFFIX,migu.cn,DIRECT
 HOST-SUFFIX,neea.cn,DIRECT
+HOST-SUFFIX,news.cn,DIRECT
 HOST-SUFFIX,oppo.cn,DIRECT
 HOST-SUFFIX,qpic.cn,DIRECT
 HOST-SUFFIX,sina.cn,DIRECT
