@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-11-04T01:30:33.872Z
-  # Size: 109728
+  # Last Updated: 2024-11-04T02:03:51.890Z
+  # Size: 109729
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -40479,6 +40479,7 @@ payload:
   - DOMAIN-SUFFIX,ihssdas.icu
   - DOMAIN-SUFFIX,ioffers.icu
   - DOMAIN-SUFFIX,ioykmxa.icu
+  - DOMAIN-SUFFIX,ipqajyy.icu
   - DOMAIN-SUFFIX,ipsoazr.icu
   - DOMAIN-SUFFIX,iqgessh.icu
   - DOMAIN-SUFFIX,ismuwcm.icu
